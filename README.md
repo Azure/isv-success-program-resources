@@ -1,14 +1,13 @@
-# Project
+# Scenarios
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Whether you are looking to move your application to the cloud, help your cloud native application perform at
+its best, or even explore selling with Microsoft, we are here to help. If you can't see how to accomplish your scenario
+with the information provided here, let us know in the [issues](https://github.com/Azure/solution-accelerator-pilot/issues).
 
-As the maintainer of this project, please make a few updates:
+I want to:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+[Sell with Microsoft](./marketplace/README.md)
+
 
 ## Contributing
 

@@ -7,6 +7,7 @@ with the information provided here, let us know in the [issues](https://github.c
 I want to:
 
 [Sell with Microsoft](./marketplace/README.md)
+[Build my solution on Azure](./azure/README.md)
 
 
 ## Contributing

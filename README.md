@@ -10,6 +10,8 @@ I want to:
 
 [Build my solution on Azure](./azure/README.md)
 
+[Build/Integrate my solution with Microsoft Teams](./Teams/README.md)
+
 
 ## Contributing
 

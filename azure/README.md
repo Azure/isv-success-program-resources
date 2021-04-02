@@ -4,20 +4,20 @@ With help from Azure, you have everything you need to build your next great solu
 
 ## **General Azure Resources**
 Below are some key resources for Azure:
-| Resource            | Link                                                          |
-|---------------------|---------------------------------------------------------------|
-| Azure Architecture Center | <https://docs.microsoft.com/en-us/azure/architecture/> |
-| Azure Charts | <https://azurecharts.com/> |
-| Azure Microsoft Learn | <https://docs.microsoft.com/en-us/learn/azure/> |
-| Azure Product Documentation | <https://docs.microsoft.com/en-us/azure/?product=featured> |
-| Azure Tech Community | <https://techcommunity.microsoft.com/t5/azure/ct-p/Azure> |
-| Azure Well-Architected Framework (WAF) | <https://docs.microsoft.com/en-us/azure/architecture/framework/> |
-| Cloud Adoption Framework (CAF) for Azure | <https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/> |
-| Azure Code Samples | <https://docs.microsoft.com/en-us/samples/browse/?products=azure> |
-| Channel 9 Azure Friday | <https://channel9.msdn.com/> |
-| Microsoft Azure YouTube Channel | <https://www.youtube.com/user/windowsazure> |
-| Azure Support | <https://azure.microsoft.com/en-us/support/options/> |
-| Microsoft Certifications | <https://docs.microsoft.com/en-us/learn/certifications/> |
+| Resource            | 
+|---------------------|
+| [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) |
+| [Azure Charts](https://azurecharts.com/) |
+| [Azure Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) |
+| [Azure Product Documentation](https://docs.microsoft.com/en-us/azure/?product=featured) |
+| [Azure Tech Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) |
+| [Azure Well-Architected Framework (WAF)](https://docs.microsoft.com/en-us/azure/architecture/framework/) |
+| [Cloud Adoption Framework (CAF) for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) |
+| [Azure Code Samples](https://docs.microsoft.com/en-us/samples/browse/?products=azure) |
+| [Channel 9 Azure Friday](https://channel9.msdn.com/) |
+| [Microsoft Azure YouTube Channel](https://www.youtube.com/user/windowsazure) |
+| [Azure Support](https://azure.microsoft.com/en-us/support/options/) |
+| [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/) |
 
 ## **Resources by Scenario**
 ## Is your solution Single Tenant or Multi-Tenant?

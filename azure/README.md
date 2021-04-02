@@ -7,6 +7,7 @@ Below are some key resources for Azure:
 | Resource            | 
 |---------------------|
 | [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) |
+| [Directory of Azure Services](https://azure.microsoft.com/en-us/services/) |
 | [Azure Charts](https://azurecharts.com/) |
 | [Azure Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) |
 | [Azure Product Documentation](https://docs.microsoft.com/en-us/azure/?product=featured) |
@@ -22,13 +23,26 @@ Below are some key resources for Azure:
 ## **Resources by Scenario**
 ## Is your solution Single Tenant or Multi-Tenant?
 ### Multi-Tenancy
+| Topic        | Link         |
+|--------------|--------------|
+| Shared Capacity Solutions | [Get started with autoscale in Azure - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-get-started)<br>[Subscription decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/) |
+| Dedicated Capacity Solutions | [Infrastructure as code](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)<br>[Cross-tenant management experiences - Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cross-tenant-management-experience) |
+| Hybrid Capacity Solutions |  |
 
 ## How is your solution hosted?
 ### Build my new solution on Azure
+| Topic        | Link         |
+|--------------|--------------|
+| Validate my architecture | [Assessments](https://docs.microsoft.com/en-us/assessments/) |
+| Deploy Proof of Concept on Azure | [What is an Azure landing zone? - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/) |
 ### Migrate/Replicate my solution to Azure from another cloud
+| Topic        | Link         |
+|--------------|--------------|
+| Understand the equivalent services on Azure (AWS, GCP) | [Azure for AWS professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)<br>[Azure for GCP professionals - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/) |
+| Understand how to leverage Kubernetes on Azure | [Kubernetes on Azure](https://azure.microsoft.com/en-us/overview/kubernetes-on-azure/)  |
 ### Migrate my solution to Azure from on-premises
 | Topic        | Link         |
-|--------------|-------------|
+|--------------|--------------|
 | Lift and Shift my solution to Azure | [Choosing Azure compute platforms for container-based applications](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/modernize-existing-apps-to-cloud-optimized/choosing-azure-compute-options-for-container-based-applications)<br>[Java on Azure](https://docs.microsoft.com/en-us/learn/paths/java-on-azure/) |
 | Modernize my solution as I migrate to Azure | [Modernize Existing .NET Applications With Azure Cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/)<br>[Modernize Windows Server Apps on Microsoft Azure using Containers with Windows Admin Center and AKS!](https://techcommunity.microsoft.com/t5/itops-talk-blog/modernize-windows-server-apps-on-microsoft-azure-using/ba-p/1947588)|
 | Data Migration | [Microsoft Database Migration Guide](https://datamigration.microsoft.com/) |

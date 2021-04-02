@@ -38,7 +38,7 @@ Below are some key resources for Azure:
 ### Migrate/Replicate my solution to Azure from another cloud
 | Topic        | Link         |
 |--------------|--------------|
-| Understand the equivalent services on Azure (AWS, GCP) | [Azure for AWS professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)<br>[Azure for GCP professionals - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/) |
+| Understand the equivalent services on Azure (AWS, GCP) | [Azure for AWS professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)<br>[Azure for GCP professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/) |
 | Understand how to leverage Kubernetes on Azure | [Kubernetes on Azure](https://azure.microsoft.com/en-us/overview/kubernetes-on-azure/)  |
 ### Migrate my solution to Azure from on-premises
 | Topic        | Link         |

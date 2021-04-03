@@ -51,9 +51,35 @@ Below are some key resources for Azure:
 
 ## What outcome(s) are you focused on for your solution?
 ### Scale my solution to support more customers
+| Topic        | Link         |
+|--------------|--------------|
+| Scale VM based solution | [Azure virtual machine scale sets overview - Azure Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)<br>[Build a scalable application with virtual machine scale sets - Learn](https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/) |
+| Modernize VM solution to microservices, containers, Kubernetes | [Modernize Existing .NET Applications With Azure Cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/)<br>[Modernize Windows Server Apps on Microsoft Azure using Containers with Windows Admin Center and AKS!](https://techcommunity.microsoft.com/t5/itops-talk-blog/modernize-windows-server-apps-on-microsoft-azure-using/ba-p/1947588)<br>[Choosing Azure compute platforms for container-based applications](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/modernize-existing-apps-to-cloud-optimized/choosing-azure-compute-options-for-container-based-applications) |
+| Move my solution to a SaaS model | [Multi-tenant SaaS patterns - Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns) |
+| Scale my databases | [Scale single database resources - Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-scale)<br>[What is the Hyperscale service tier? - Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale) |
+| Scale my solution to additional geos | [Choose the Right Azure Region for You](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)<br>[Azure regions decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions#:~:text=Sovereignty:%20Certain%20regions%20are%20dedicated%20to%20specific%20sovereign,certain%20types%20of%20customers.%20These%20sovereign%20regions%20are:)<br>[Data Residency in Azure](https://azure.microsoft.com/en-us/global-infrastructure/data-residency/) |
+| Partitioning (across subscriptions, etc.) | [Azure Subscription Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits) |
+
 ### Improve my solution's security & compliance (WAF-Security)
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Security Best Practices |  | [Azure Security Center documentation](https://docs.microsoft.com/en-us/azure/security-center/) |
+| Compliance/Certification Requirements |  | [Compliance in the trusted cloud](https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/) |
+| Data Residency/Sovereignty |  | [Choose the Right Azure Region for You](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)<br>[Azure regions decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions#:~:text=Sovereignty:%20Certain%20regions%20are%20dedicated%20to%20specific%20sovereign,certain%20types%20of%20customers.%20These%20sovereign%20regions%20are:)<br>[Data Residency in Azure](https://azure.microsoft.com/en-us/global-infrastructure/data-residency/) |
+| Govern my Azure Environment(s) | Azure Blueprints | [Overview of Azure Blueprints - Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)  |
+|  | Azure Policy | [What is Azure Policy?](https://docs.microsoft.com/en-us/azure/governance/policy/overview) |
+|  | Management Groups | [Organize your resources with management groups - Azure Governance - Azure governance](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview) |
+|  | Azure Role-Based Access Control | [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)  |
+| SIEM/SOAR | Azure Sentinel | [Cloud-native security operations with Azure Sentinel - Learn](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/)<br>[Azure Sentinel – Cloud-native SIEM Solution](https://azure.microsoft.com/en-us/services/azure-sentinel/#product-overview) |
+| Network (Layer 4) Security | Network Security Groups | [Create, change, or delete an Azure network security group](https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group) |
+|  |  Hybrid (VPN, ExpressRoute, etc.) | [Azure ExpressRoute Overview: Connect over a private connection](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)  |
+| Application (Layer 7) Security | Identity as the new security perimeter | [Azure identity & access security best practices](https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices#treat-identity-as-the-primary-security-perimeter)  |
+|  | SSL, TLS, certificate management | [Add and manage TLS/SSL certificates - Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate) |
+|  | OWASP attacks, WAF, etc. | [Web Application Firewall documentation](https://docs.microsoft.com/en-us/azure/web-application-firewall/)<br>[What is Azure Web Application Firewall on Azure Application Gateway? - Azure Web Application Firewall](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview#waf-policy-and-rules) |
+| Shared responsibility |  | [Shared responsibility in the cloud - Microsoft Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)<br>[Describe the shared responsibility model - Learn](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/3-describe-shared-responsibility-model?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.describe-concepts-of-security-compliance-identity) |
+
 ### Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)
-### Streamline my deployments on Azure (WAF-Operational Excellence)
+### Streamline my deployments on Azure (WAF-Operational excellence)
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
-### Add capabilities to my solutoin on Azure
+### Add capabilities to my solution on Azure
 

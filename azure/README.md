@@ -79,6 +79,22 @@ Below are some key resources for Azure:
 | Shared responsibility |  | [Shared responsibility in the cloud - Microsoft Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)<br>[Describe the shared responsibility model - Learn](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/3-describe-shared-responsibility-model?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.describe-concepts-of-security-compliance-identity) |
 
 ### Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| VM reliability and performance |  | [Building solutions for high availability using Availability Zones - High Availability](https://docs.microsoft.com/en-us/azure/architecture/high-availability/building-solutions-for-high-availability) |
+| Database reliability and performance |  | [Data Management for Reliability - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/data-management) |
+| Container reliability and performance |  | [Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#business-continuity-decisions)
+| SLA, RTO, RPO metric-driven design, including "number of nines" |  | [Business Metrics - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics)<br>[Azure SLA Board (azurecharts.com)](https://azurecharts.com/sla)<br>[Choose the right Azure services by examining SLAs and service lifecycle](https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/) |
+| Business continuity and disaster recovery (BCDR) |  | [Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#disaster-recovery) |
+| Mean Time To Recover (MTTR) v. Mean Time Between Failures (MTBF) |  | [Business Metrics - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics) |
+| Decoupling through message brokering |  | [Architect message brokering and serverless applications in Azure - Learn](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)<br>[Connect your services together - Learn](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)<br>[Asynchronous messaging options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging)<br>[Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services) |
+|  | Azure Queue Storage | [Introduction to Azure Queue Storage - Azure Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction#:~:text=Azure%20Queue%20Storage%20is%20a%20service%20for%20storing,the%20total%20capacity%20limit%20of%20a%20storage%20account.) |
+|  | Azure Service Bus | [Azure Service Bus messaging overview - Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) |
+|  | Azure Event Hub | [Azure Event Hubs documentation](https://docs.microsoft.com/en-us/azure/event-hubs/) |
+|  | Azure Event Grid | [Azure Event Grid documentation](https://docs.microsoft.com/en-us/azure/event-grid/)  |
+|  | Azure Redis | [Azure Cache for Redis Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/) |
+| Designing for availability and reliability |  | [Reliability patterns - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns) |
+
 ### Streamline my deployments on Azure (WAF-Operational excellence)
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
 ### Add capabilities to my solution on Azure

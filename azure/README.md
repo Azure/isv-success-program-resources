@@ -85,7 +85,7 @@ Below are some key resources for Azure:
 | Database reliability and performance |  | [Data Management for Reliability - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/data-management) |
 | Container reliability and performance |  | [Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#business-continuity-decisions)
 | SLA, RTO, RPO metric-driven design, including "number of nines" |  | [Business Metrics - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics)<br>[Azure SLA Board (azurecharts.com)](https://azurecharts.com/sla)<br>[Choose the right Azure services by examining SLAs and service lifecycle](https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/) |
-| Business continuity and disaster recovery (BCDR) |  | [Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#disaster-recovery) |
+| Business continuity and disaster recovery (BCDR) |  | [Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#disaster-recovery) |
 | Mean Time To Recover (MTTR) v. Mean Time Between Failures (MTBF) |  | [Business Metrics - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/business-metrics) |
 | Decoupling through message brokering |  | [Architect message brokering and serverless applications in Azure - Learn](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)<br>[Connect your services together - Learn](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)<br>[Asynchronous messaging options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging)<br>[Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services) |
 |  | Azure Queue Storage | [Introduction to Azure Queue Storage - Azure Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction#:~:text=Azure%20Queue%20Storage%20is%20a%20service%20for%20storing,the%20total%20capacity%20limit%20of%20a%20storage%20account.) |
@@ -96,6 +96,22 @@ Below are some key resources for Azure:
 | Designing for availability and reliability |  | [Reliability patterns - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns) |
 
 ### Streamline my deployments on Azure (WAF-Operational excellence)
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Agile Planning |   | [What is Agile? - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-agile)<br>[What is Agile Development? - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-agile-development) |
+|  | Azure Boards | [Understand what you get with Azure Boards - Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops&tabs=agile-process) |
+|  | GitHub Project Management | [Features · Project management · GitHub](https://github.com/features/project-management) |
+| Source Management (Git) |  | [What is Git? - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git) |
+|  | Azure Repos | [Azure Repos Documentation](https://docs.microsoft.com/en-us/azure/devops/repos/?view=azure-devops) |
+|  | GitHub | [Using Git - GitHub Docs](https://docs.github.com/en/github/getting-started-with-github) |
+|  | TFVC to Git | [Migrate from TFVC to Git - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/git/migrate-from-tfvc-to-git)<br>[Git and TFVC version control - Azure Repos](https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/comparison-git-tfvc?view=azure-devops) |
+| CI/CD |  | [Design a CI/CD pipeline using Azure DevOps - Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-webapp)<br>[Release Engineering Continuous integration - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/release-engineering-ci) |
+|  | Azure Pipelines | [Azure Pipelines documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)<br>[Learn how to build and deploy your apps - Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/?view=azure-devops<br>[AZ-400: Define and implement continuous integration - Learn](https://docs.microsoft.com/en-us/learn/paths/az-400-define-implement-continuous-integration/)<br>[Automate your deployments with Azure DevOps learning path - Learn](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) |
+|  | Jenkins, CircleCI, etc. (OSS) | [Jenkins on Azure documentation - Jenkins](https://docs.microsoft.com/en-us/azure/developer/jenkins/) |
+|  | Environment management | [Progressively expose your releases using deployment rings - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/migrate/phase-rollout-with-rings?view=azure-devops)<br>[Set up staging environments - Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots) |
+|  | Configuration management | [What is Azure App Configuration?](https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview)<br>[Managing Configuration and App Settings for Multiple Environments in Your CD Pipeline](https://devblogs.microsoft.com/devops/managing-configuration-app-settings-for-multiple-environments-in-your-cd-pipeline/) |
+
+
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
 ### Add capabilities to my solution on Azure
 

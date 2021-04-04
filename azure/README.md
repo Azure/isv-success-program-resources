@@ -113,6 +113,19 @@ Below are some key resources for Azure:
 | Infrastructure as Code (IaC) |  | [Infrastructure as code](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)<br>[Automate your deployments with Azure DevOps learning path - Learn](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) |
 |  | ARM Templates, Bicep, etc. | [ARM template documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/)<br>[Deploy and manage resources in Azure by using ARM templates - Learn](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/) |
 |  | Terraform | [Using Terraform with Azure](https://docs.microsoft.com/en-us/azure/developer/terraform/overview)<br>[Automate cloud resource management - Learn](https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/) |
+| Test Automation |  | [Run quality tests in your build pipeline by using Azure Pipelines - Learn](https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/)<br>[AZ-400: Define and implement continuous integration - Learn](https://docs.microsoft.com/en-us/learn/paths/az-400-define-implement-continuous-integration/)<br>[Testing your application and Azure environment - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/release-engineering-testing) |
+|  | Load testing (JMeter, etc.) | [Load Testing - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/banking/jmeter-load-testing-pipeline-implementation-reference)<br>[JMeter implementation reference for load testing pipeline solution - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/banking/jmeter-load-testing-pipeline-implementation-reference) |
+|  | End-to-end testing | [Testing your application and Azure environment - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/release-engineering-testing) |
+|  | Unit testing |  | 
+|  | Azure Test Plans | [Azure Test Plans documentation](https://docs.microsoft.com/en-us/azure/devops/test/?view=azure-devops) |
+|  | GitHub Actions | [Features • GitHub Actions · GitHub](https://github.com/features/actions) |
+| Package Management | Azure Artifacts | [Azure Artifacts documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops) |
+|  | GitHub Packages | [GitHub Packages: Your packages, at home with their code · GitHub](https://github.com/features/packages) |
+| Monitoring and logging |  | [ISV Specific Monitoring and Logging Guidance](https://aka.ms/FTAISVLogging) |
+|  | Azure Monitor | [Azure Monitor overview - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) |
+|  | Grafana, Prometheus, etc. (OSS) | [Monitor Azure services and applications using Grafana - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin)<br>[Documentation - Grafana Labs](https://grafana.com/docs/)<br>[Configure Container insights Prometheus Integration - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-integration)<br>[Overview - Prometheus](https://prometheus.io/docs/introduction/overview/) |
+|  | Distributed monitoring |  |
+|  | Intelligent alerting | [Overview of alerting and notification monitoring in Azure - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview) |
 
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
 ### Add capabilities to my solution on Azure

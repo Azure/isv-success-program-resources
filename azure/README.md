@@ -247,3 +247,13 @@ Below are some key resources for Azure:
 |  | Stream Analytics | [Welcome to Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction) |
 |  | Azure Data Explorer for Lambda | [Ingest data from IoT Hub into Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-iot-hub)  |
 |  | Azure Functions | [Azure IoT Hub trigger for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot-trigger?tabs=csharp) |
+| Device data ingest, storage & management (time series) | Azure Data Explorer | [Ingest data from IoT Hub into Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-iot-hub)  |
+|  | ADLS Gen 2 | [Introduction to Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) |
+|  | Azure Stream Analytics | [Introduction to Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)<br>[Implement a Data Streaming Solution with Azure Streaming Analytics - Learn](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/) |
+|  | IoT Hub | [Azure IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/) |
+| Device protocols & connectivity (industrial, low frequency, cell, third party integrator) | LoRaWAN | [How an IoT Edge device can be used aas a gateway](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway?view=iotedge-2018-06)  |
+|  | Telecom |  |
+|  | Express Route | [What is Azure ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction) |
+|  | IIoT & EFlow |  |
+|  | AMQP, MQTT, HTTPS | [Reference - choose a communication protocol](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols) |
+|  | Other/Translation | [How an IoT Edge device can be used as a gateway](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway?view=iotedge-2018-06) |

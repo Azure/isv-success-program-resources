@@ -261,3 +261,8 @@ Below are some key resources for Azure:
 |  | TPM | [Create and provision an IoT Edge device with a TPM on Linux](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-auto-provision-simulated-device-linux?view=iotedge-2018-06) |
 |  | Sphere | [Azure Sphere Documentation](https://docs.microsoft.com/en-us/azure-sphere/) |
 |  | Defender for IoT | [Azure Defender for IoT documentation](https://docs.microsoft.com/en-us/azure/defender-for-iot/) |
+| Constrained Devices | Microcontroller | [Azure IoT Clients](https://github.com/Azure/azure-sdk-for-c/tree/master/sdk/docs/iot) |
+|  | Small Footprint | [Develop for constrained devices using Azure IoT C SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-develop-for-constrained-devices) |
+| Device Insights | Power BI | [Power BI documentation](https://docs.microsoft.com/en-us/power-bi/) |
+|  | Digital Twins | [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/) |
+|  | Kibana on ADX | [Visualize data from Azure Data Explorer in Kibana with the K2Bridge open-source connector](https://docs.microsoft.com/en-us/azure/data-explorer/k2bridge) |

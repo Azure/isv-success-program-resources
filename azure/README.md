@@ -51,7 +51,7 @@ Below are some key resources for Azure:
 |--------------|--------------|
 | Lift and Shift my solution to Azure | [Choosing Azure compute platforms for container-based applications](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/modernize-existing-apps-to-cloud-optimized/choosing-azure-compute-options-for-container-based-applications)<br>[Java on Azure](https://docs.microsoft.com/en-us/learn/paths/java-on-azure/) |
 | Modernize my solution as I migrate to Azure | [Modernize Existing .NET Applications With Azure Cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/)<br>[Modernize Windows Server Apps on Microsoft Azure using Containers with Windows Admin Center and AKS!](https://techcommunity.microsoft.com/t5/itops-talk-blog/modernize-windows-server-apps-on-microsoft-azure-using/ba-p/1947588)|
-| Data Migration | [Microsoft Database Migration Guide](https://datamigration.microsoft.com/) |
+| Data Migration | [Microsoft Database Migration Guide](https://datamigration.microsoft.com/)<br>[Copy data from a SQL Server database to Azure Blob storage by using the Copy Data tool](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-data-tool) |
 | Publish a traditional Windows desktop application to customers in a hosted environment | [Windows Virtual Desktop documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/) |
 | Understand Azure Arc for hybrid management | [Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/en-us/learn/paths/manage-hybrid-infrastructure-with-azure-arc/) |
 
@@ -237,4 +237,13 @@ Below are some key resources for Azure:
 | Implementing Big Data Solutions |  | [Big data architecture](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data) |
 | Ingesting Real-Time Data |  | [Real time processing](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing) |
 
-
+#### IOT for my solution
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Provision & manage devices | Device Provisioning Service | [Azure IoT Hub Device Provisioning Service (DPS) Documentation](https://docs.microsoft.com/en-us/azure/iot-dps/)<br>[Automatically provision IoT devices securely and at scale with the Device Provisioning Service - Learn](https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/) |
+|  | Mutliple IoT Hubs | [Tutorial - Provision devices across load balanced hubs using Azure IoT Hub Device Provisioning Service](https://docs.microsoft.com/en-us/azure/iot-dps/tutorial-provision-multiple-hubs)<br>[How to provision devices for multitenancy in Azure IoT Hub Device Provisioning Service](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-provision-multitenant) |
+|  | Plug and Play | [What is IoT Plug and Play?](https://docs.microsoft.com/en-us/azure/iot-pnp/overview-iot-plug-and-play) |
+| Lambda architecture |  | [Introduction to implementing lambda architecture for IoT solutions - Learn](Introduction to implementing lambda architecture for IoT solutions - Learn | Microsoft Docs) |
+|  | Stream Analytics | [Welcome to Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction) |
+|  | Azure Data Explorer for Lambda | [Ingest data from IoT Hub into Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-iot-hub)  |
+|  | Azure Functions | [Azure IoT Hub trigger for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot-trigger?tabs=csharp) |

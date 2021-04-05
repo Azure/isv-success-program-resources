@@ -143,6 +143,33 @@ Below are some key resources for Azure:
 |  | Azure tagging | [Resource naming and tagging decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/) |
 |  | Azure Resource Group and Subscription | [Organize your Azure resources effectively - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy) |
 |  | Azure Monitor Alerts | [Overview of alerts in Microsoft Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)  |
+| Data Persistence Optimization | Scale out by data sharding | [Scaling out with Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-introduction) |
+|  | Aggregate data reads |  |
+|  | Decrease reads by proactive caching | [Cache-Aside pattern - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside)  |
+| Cloud Cost Management |  | [Overview of Azure Cost Management + Billing](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview#:~:text=Cost%20Management%20uses%20Azure%20management%20groups,%20budgets,%20and,integrate%20cost%20data%20with%20external%20systems%20and%20processes.)<br>[Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/) |
+|  | Across clouds | [Set up AWS integration with Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/aws-integration-set-up-configure) |
+|  | Chargebacks, etc. | [Tag resources, resource groups, and subscriptions for logical organization - Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)  |
+|  | Budget, alerts, etc. | [Monitor usage and spending with cost alerts](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending)<br>[Tutorial - Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets) |
+| Azure Advisor |  | [Introduction to Azure Advisor - Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) |
 
 ### Add capabilities to my solution on Azure
+#### Manage identities on Azure
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Federated v. App-Owned Identities |  | [Federated Identity pattern - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)<br>[Identity management for multitenant applications - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/)<br>[What is federation with Azure AD?](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed) |
+| Standards(OAuth 2.0, OIDC, etc.) |  | [OAuth 2.0 and OpenID Connect protocols on the Microsoft identity platform - Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)<br>[Microsoft identity platform and OpenID Connect protocol - Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-protocols-oidc)<br>[How the Microsoft identity platform uses the SAML protocol](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-saml-protocol-reference)<br>[Secure your application by using OpenID Connect and Azure AD - Learn](https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/) |
+| Reaching enterprise customers through AAD integration |  | [Microsoft 365 identity models and Azure Active Directory - Microsoft 365 Enterprise](https://docs.microsoft.com/en-us/microsoft-365/enterprise/about-microsoft-365-identity?view=o365-worldwide) |
+|  | AD FS | [AD FS 2016 Overview](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/ad-fs-overview)<br>[Tutorial: Setting up PHS as backup for AD FS in Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/tutorial-phs-backup) |
+|  | Azure Active Directory Pass-through Authentication | [Azure AD Connect: Pass-through Authentication](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-pta) |
+|  | Azure Active Directory Password Hash Synchronization | [What is password hash synchronization with Azure AD?](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-phs) |
+|  | Azure AD B2B | [What is B2B collaboration in Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b) |
+|  | Azure AD B2C | [What is Azure Active Directory B2C?](https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview) |
+| "Bring your own identities" and SSO |  | [What is Azure single sign-on (SSO)?](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)<br>[Azure Active Directory Single Sign-on (SSO)](https://azure.microsoft.com/en-us/services/active-directory/sso/) |
+|  | On-prem identities | [Integrate on-premises AD domains with Azure AD - Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad) |
+|  | Azure AD B2B | [What is B2B collaboration in Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b) |
+|  | Azure AD B2C | [What is Azure Active Directory B2C?](https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview) |
+| Identity protection |  | [What is Azure Active Directory Identity Protection?](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection) |
+| Authentication and authorization |  | [Authentication vs. authorization - Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization) |
+| Multi-factor authentication (MFA) |  | [Azure AD Multi-Factor Authentication overview](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)<br>[Secure Azure Active Directory users with Multi-Factor Authentication - Learn](https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/) |
+
 

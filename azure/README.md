@@ -126,7 +126,23 @@ Below are some key resources for Azure:
 |  | Grafana, Prometheus, etc. (OSS) | [Monitor Azure services and applications using Grafana - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin)<br>[Documentation - Grafana Labs](https://grafana.com/docs/)<br>[Configure Container insights Prometheus Integration - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-integration)<br>[Overview - Prometheus](https://prometheus.io/docs/introduction/overview/) |
 |  | Distributed monitoring |  |
 |  | Intelligent alerting | [Overview of alerting and notification monitoring in Azure - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview) |
+| Product Release Strategy | Rolling deployment | [Tutorial - Configure rolling deployments for Azure Linux virtual machines - Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-devops-azure-pipelines-classic) |
+|  | Canary | [Set up staging environments - Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots)<br>[Canary deployment strategy for Kubernetes deployments - Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/kubernetes/canary-demo?view=azure-devops&tabs=yaml) |
+|  | Blue-Green | [Blue-Green deployments using Azure Traffic Manager](https://azure.microsoft.com/en-ca/blog/blue-green-deployments-using-azure-traffic-manager/)<br>[Azure Slot Deployment with Blue-Green Deployment Model](https://medium.com/@sangeetavsunchu/azure-slot-deployment-with-blue-green-deployment-model-b52cd5ffaf07)<br>[Continuous Kubernetes blue-green deployments on Azure using Ngix, AppGateway or Traffic Manager](https://denniszielke.medium.com/continuous-kubernetes-blue-green-deployments-on-azure-using-nginx-appgateway-or-trafficmanager-4490bce29cb) |
+|  | Optional/Custom/Delayed Deployments | [Progressively expose your releases using deployment rings - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/migrate/phase-rollout-with-rings?view=azure-devops) |
 
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Adopt Automatic Event-driven Autoscaling | KEDA, Horizontal Pod Autoscaler (HPA) | [Tutorial: Scale applications in Azure Kubernetes Services (AKS)](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale) |
+|  | Azure Virtual Machine Scale Sets | [What are virutal machine scale sets?](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) |
+|  | Azure App Services Scale Up Automations | [Autoscaling and App Service Environment v1](https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-environment-auto-scale) |
+|  | Azure SQL Server Elastic Pool | [Scale elastic pool resources in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-scale) |
+|  | Azure SQL Database Serverless | [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview) |
+| Monitoring and analytics |  | [Azure Monitor documentation - Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)<br>[Monitoring and diagnostics guidance - Best practices for cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)<br>[Monitoring for performance efficiency - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor) |
+|  | Azure tagging | [Resource naming and tagging decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/) |
+|  | Azure Resource Group and Subscription | [Organize your Azure resources effectively - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy) |
+|  | Azure Monitor Alerts | [Overview of alerts in Microsoft Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)  |
+
 ### Add capabilities to my solution on Azure
 

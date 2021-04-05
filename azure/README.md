@@ -20,7 +20,10 @@ Below are some key resources for Azure:
 | [Azure Support](https://azure.microsoft.com/en-us/support/options/) |
 | [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/) |
 
+
 ## **Resources by Scenario**
+
+
 ## Is your solution Single Tenant or Multi-Tenant?
 ### Multi-Tenancy
 | Topic        | Link         |
@@ -29,17 +32,20 @@ Below are some key resources for Azure:
 | Dedicated Capacity Solutions | [Infrastructure as code](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)<br>[Cross-tenant management experiences - Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cross-tenant-management-experience) |
 | Hybrid Capacity Solutions |  |
 
+
 ## How is your solution hosted?
 ### Build my new solution on Azure
 | Topic        | Link         |
 |--------------|--------------|
 | Validate my architecture | [Assessments](https://docs.microsoft.com/en-us/assessments/) |
 | Deploy Proof of Concept on Azure | [What is an Azure landing zone? - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/) |
+
 ### Migrate/Replicate my solution to Azure from another cloud
 | Topic        | Link         |
 |--------------|--------------|
 | Understand the equivalent services on Azure (AWS, GCP) | [Azure for AWS professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)<br>[Azure for GCP professionals - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/) |
 | Understand how to leverage Kubernetes on Azure | [Kubernetes on Azure](https://azure.microsoft.com/en-us/overview/kubernetes-on-azure/)  |
+
 ### Migrate my solution to Azure from on-premises
 | Topic        | Link         |
 |--------------|--------------|
@@ -48,6 +54,7 @@ Below are some key resources for Azure:
 | Data Migration | [Microsoft Database Migration Guide](https://datamigration.microsoft.com/) |
 | Publish a traditional Windows desktop application to customers in a hosted environment | [Windows Virtual Desktop documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/) |
 | Understand Azure Arc for hybrid management | [Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/en-us/learn/paths/manage-hybrid-infrastructure-with-azure-arc/) |
+
 
 ## What outcome(s) are you focused on for your solution?
 ### Scale my solution to support more customers
@@ -59,6 +66,7 @@ Below are some key resources for Azure:
 | Scale my databases | [Scale single database resources - Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-scale)<br>[What is the Hyperscale service tier? - Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale) |
 | Scale my solution to additional geos | [Choose the Right Azure Region for You](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)<br>[Azure regions decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions#:~:text=Sovereignty:%20Certain%20regions%20are%20dedicated%20to%20specific%20sovereign,certain%20types%20of%20customers.%20These%20sovereign%20regions%20are:)<br>[Data Residency in Azure](https://azure.microsoft.com/en-us/global-infrastructure/data-residency/) |
 | Partitioning (across subscriptions, etc.) | [Azure Subscription Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits) |
+
 
 ### Improve my solution's security & compliance (WAF-Security)
 | Topic | Sub-Topic | Link |
@@ -78,6 +86,7 @@ Below are some key resources for Azure:
 |  | OWASP attacks, WAF, etc. | [Web Application Firewall documentation](https://docs.microsoft.com/en-us/azure/web-application-firewall/)<br>[What is Azure Web Application Firewall on Azure Application Gateway? - Azure Web Application Firewall](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview#waf-policy-and-rules) |
 | Shared responsibility |  | [Shared responsibility in the cloud - Microsoft Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)<br>[Describe the shared responsibility model - Learn](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/3-describe-shared-responsibility-model?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.describe-concepts-of-security-compliance-identity) |
 
+
 ### Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)
 | Topic | Sub-Topic | Link |
 |-------|-----------|------|
@@ -94,6 +103,7 @@ Below are some key resources for Azure:
 |  | Azure Event Grid | [Azure Event Grid documentation](https://docs.microsoft.com/en-us/azure/event-grid/)  |
 |  | Azure Redis | [Azure Cache for Redis Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/) |
 | Designing for availability and reliability |  | [Reliability patterns - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns) |
+
 
 ### Streamline my deployments on Azure (WAF-Operational excellence)
 | Topic | Sub-Topic | Link |
@@ -131,6 +141,7 @@ Below are some key resources for Azure:
 |  | Blue-Green | [Blue-Green deployments using Azure Traffic Manager](https://azure.microsoft.com/en-ca/blog/blue-green-deployments-using-azure-traffic-manager/)<br>[Azure Slot Deployment with Blue-Green Deployment Model](https://medium.com/@sangeetavsunchu/azure-slot-deployment-with-blue-green-deployment-model-b52cd5ffaf07)<br>[Continuous Kubernetes blue-green deployments on Azure using Ngix, AppGateway or Traffic Manager](https://denniszielke.medium.com/continuous-kubernetes-blue-green-deployments-on-azure-using-nginx-appgateway-or-trafficmanager-4490bce29cb) |
 |  | Optional/Custom/Delayed Deployments | [Progressively expose your releases using deployment rings - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/migrate/phase-rollout-with-rings?view=azure-devops) |
 
+
 ### Optimize my cloud spend on Azure (WAF-Cost Optimization)
 | Topic | Sub-Topic | Link |
 |-------|-----------|------|
@@ -152,6 +163,7 @@ Below are some key resources for Azure:
 |  | Budget, alerts, etc. | [Monitor usage and spending with cost alerts](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending)<br>[Tutorial - Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets) |
 | Azure Advisor |  | [Introduction to Azure Advisor - Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) |
 
+
 ### Add capabilities to my solution on Azure
 #### Manage identities on Azure
 | Topic | Sub-Topic | Link |
@@ -171,5 +183,37 @@ Below are some key resources for Azure:
 | Identity protection |  | [What is Azure Active Directory Identity Protection?](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection) |
 | Authentication and authorization |  | [Authentication vs. authorization - Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization) |
 | Multi-factor authentication (MFA) |  | [Azure AD Multi-Factor Authentication overview](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)<br>[Secure Azure Active Directory users with Multi-Factor Authentication - Learn](https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/) |
+
+
+#### Operational data store for my solution
+[Azure Databases - Types of Databases on Azure](https://azure.microsoft.com/en-us/product-categories/databases/#:~:text=Find%20the%20database%20product%20you%20need%20%20,%20Not%20available%20%207%20more%20rows)
+
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Relational database |  | [Relational vs. NoSQL data](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data)<br>[Work with relational data in Azure learning path - Learn](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)  |
+| Non-Relational database |  | [Relational vs. NoSQL data](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data) |
+| Data tenancy |  | [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns)<br>[Tenancy model for SaaS applications - Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/isv/application-tenancy) |
+| Caching |  | [Azure Cache for Redis](https://azure.microsoft.com/en-us/services/cache/)<br>[Work with mutable and partial data in Azure Cache for Redis - Learn](https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/)<br>[Caching guidance - Best practices for cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching?toc=/azure/redis-cache/toc.json)
+| Consistency |  | [Consistency levels in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)  |
+
+#### AI/Machine Learning for my solution
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+| Build my ML models on Azure |  |  |
+| Understand Azure AI/ML services |  |  |
+| Leverage out of box AI/ML services |  |  |
+| Create Collaborative Environment for Scientists |  |  |
+| Operationalize my ML Models |  |  |
+| ML Ops |  |  |
+
+
+#### Data insights for my solution
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
+
+
+#### IOT for my solution
+| Topic | Sub-Topic | Link |
+|-------|-----------|------|
 
 

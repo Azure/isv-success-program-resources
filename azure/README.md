@@ -223,10 +223,18 @@ Below are some key resources for Azure:
 #### Data insights for my solution
 | Topic | Sub-Topic | Link |
 |-------|-----------|------|
-
-
-#### IOT for my solution
-| Topic | Sub-Topic | Link |
-|-------|-----------|------|
+| Implementing Warehousing |  | [Data warehousing](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/data-warehousing)   |
+|  | Azure Synapse Analytics | [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/) |
+|  | DataBricks Delta Lake | [Delta Lake and Delta Engine guide](https://docs.microsoft.com/en-us/azure/databricks/delta/)  |
+|  | Designing Data Pipelines | [What is Azure Data Factory?](https://docs.microsoft.com/en-us/azure/data-factory/introduction) |
+| Build Data Lake |  | [Data lakes](https://docs.microsoft.com/en-us/azure/architecture/data-guide/scenarios/data-lake) |
+|  | DataBricks ETL | [Tutorial: Extract, transform, and local data by using Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse) |
+|  | Implementing Azure Data Lake | [Best practices for using Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-best-practices) |
+|  | Integrating Azure Synapse Analytics with Azure Data Lake | [Load data from Azure Data Lake Storage into dedicated SQL pools in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-data-lake-store) |
+| Reporting and Advanced Analytics |  | [Introduction to Power BI - Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/)<br>[Choosing a data analytics and reporting technology - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analysis-visualizations-reporting) |
+|  | Implementing Advanced Analytics with Power BI | [Perform analytics in PowerBI](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/)<br>[Introduction to PowerBI - Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/)  |
+|  | Build Custom Analytics with Power BI Embedded | [Tutorial: Embed Power BI content using a sample embed for your customers application](https://docs.microsoft.com/en-us/power-bi/developer/embedded/embed-sample-for-customers?tabs=net-core) |
+| Implementing Big Data Solutions |  | [Big data architecture](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data) |
+| Ingesting Real-Time Data |  | [Real time processing](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing) |
 
 

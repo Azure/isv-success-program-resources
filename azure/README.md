@@ -257,3 +257,7 @@ Below are some key resources for Azure:
 |  | IIoT & EFlow |  |
 |  | AMQP, MQTT, HTTPS | [Reference - choose a communication protocol](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols) |
 |  | Other/Translation | [How an IoT Edge device can be used as a gateway](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway?view=iotedge-2018-06) |
+| Secure my devices | DPS Flow | [How to provision devices using symmetric key enrollment groups](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-legacy-device-symm-key?tabs=windows) |
+|  | TPM | [Create and provision an IoT Edge device with a TPM on Linux](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-auto-provision-simulated-device-linux?view=iotedge-2018-06) |
+|  | Sphere | [Azure Sphere Documentation](https://docs.microsoft.com/en-us/azure-sphere/) |
+|  | Defender for IoT | [Azure Defender for IoT documentation](https://docs.microsoft.com/en-us/azure/defender-for-iot/) |

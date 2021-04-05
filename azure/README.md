@@ -199,13 +199,26 @@ Below are some key resources for Azure:
 #### AI/Machine Learning for my solution
 | Topic | Sub-Topic | Link |
 |-------|-----------|------|
-| Build my ML models on Azure |  |  |
-| Understand Azure AI/ML services |  |  |
-| Leverage out of box AI/ML services |  |  |
-| Create Collaborative Environment for Scientists |  |  |
-| Operationalize my ML Models |  |  |
-| ML Ops |  |  |
-
+| Build my ML models on Azure |  | [What is Azure Machine Learning workspace?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace) |
+|  | Custom ML Models | [Configure and submit training runs](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-set-up-training-targets?view=azure-devops) |
+|  | Templated Model (Many Model) | [Many Models Solution Accelerator](https://github.com/microsoft/solution-accelerator-many-models)  |
+|  | Chained ML Models |  |
+|  | Cognitive Services | [Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)  |
+| Understand Azure AI/ML services |  | [Azure AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/) |
+| Leverage out of box AI/ML services | Cognitive Services  | [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) |
+|  | Azure Cognitive Search | [Azure Cognitive Search documentation](https://docs.microsoft.com/en-us/azure/search/) |
+|  | Azure Machine Learning | [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) |
+|  | Azure Databricks | [Azure Databricks documentation](https://docs.microsoft.com/en-us/azure/databricks/) |
+|  | Azure Bot Services | [Azure Bot Service](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0)  |
+| Create Collaborative Environment for Scientists | Azure Machine Learning Studio | [What is Azure Machine Learning Studio?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) |
+|  | Azure Databricks | [What is Azure Databricks?](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks#:~:text=Azure%20Databricks%20is%20a%20data,Microsoft%20Azure%20cloud%20services%20platform.&text=For%20a%20big%20data%20pipeline,Event%20Hub%2C%20or%20IoT%20Hub.) |
+| Operationalize my ML Models | Batch Inference | [Create and run machine learning pipelines with Azure Machine Learning SDK](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-machine-learning-pipelines) |
+|  | Realtime Inference | [Deploy your existing model with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-existing-model) |
+|  | Edge Inference | [Tutorial: Deploy Azure Machine Learning as an IoT Edge module (preview)](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning?context=azure%2Fmachine-learning%2Fservice%2Fcontext%2Fml-context&view=iotedge-2018-06) |
+|  | Distributable Packages | [Get started with Python packages in Azure Artifacts](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops) |
+| ML Ops | Azure ML Pipelines | [Create and run machine learning pipelines with Azure Machine Learning SDK](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-machine-learning-pipelines) |
+|  | Azure DevOps | [Azure DevOps documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)  |
+|  | Team Contracts | [MLOps: Model management, deployment, and monitoring with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) |
 
 #### Data insights for my solution
 | Topic | Sub-Topic | Link |

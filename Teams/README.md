@@ -12,7 +12,7 @@ Below are some key resources for Microsoft Teams platform:
 | [Virtual instructor led training - Building Apps with Teams](https://note.microsoft.com/US-NOGEP-WBNR-FY20-04Apr-14-BuildMicrosoftTeamsAppsBuildingAppsandSolutionswithMicrosoftTeams-SRDEM14680-02_Registration.html) |
 | [Learn - Develop apps for Microsoft Teams](https://docs.microsoft.com/en-us/learn/paths/m365-msteams-associate/) |
 | [Teams Developer Tech Community](https://aka.ms/TeamsCommunity) |
-| [Microsoft Teams UserVoice)](https://microsoftteams.uservoice.com/) |
+| [Microsoft Teams UserVoice](https://microsoftteams.uservoice.com/) |
 | [Microsoft Teams Devlopment Samples](https://pnp.github.io/teams-dev-samples/) |
 | [Microsoft Teams Developer Blogs](https://developer.microsoft.com/en-us/microsoft-teams/blogs/) |
 | [Microsoft Teams Support](https://support.microsoft.com/en-us/teams) |
@@ -20,9 +20,20 @@ Below are some key resources for Microsoft Teams platform:
 
 ## What are you trying to accomplish?
 
+* [Design App for Microsoft Teams](#Design-App-for-Microsoft-Teams)
 * [Build App for Microsoft Teams](#Build-App-for-Microsoft-Teams)
 * [Publish App to App Source](#Publish-App-to-App-Source)
 * [Monetize App through Microsoft Commercial Marketplace](#Monetize-App-through-Microsoft-Commercial-Marketplace)
+
+## Design App for Microsoft Teams
+| Topic        | Link         |
+|--------------|--------------|
+| Design priciples | [Design documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview?wt.mc_id=devcomteams_designyourapp_webpage_mw) |
+| Design guidelines | [Understand your use cases](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/understand-use-cases) |
+| Designing for web and desktop | [Web and desktop design guidance](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/understand-use-cases) |
+| Designing for mobile | [Mobile design guidance](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/design/tabs-mobile) |
+| Microsoft Teams UI design inspirations | [UI design kit](https://www.figma.com/community/file/916836509871353159) |
+| Microsoft Teams UI design components | [UI design library](https://github.com/OfficeDev/microsoft-teams-ui-component-library) |
 
 ## Build App for Microsoft Teams
 * Extend my existing SAAS App to Microsoft Teams

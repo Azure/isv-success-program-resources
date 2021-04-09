@@ -39,8 +39,7 @@ Below are some key resources for Microsoft Teams platform:
 ## Build App for Microsoft Teams
 | Topic        | Link         |
 |--------------|--------------|
-| Extend my existing SAAS app to Teams | [Integrate web app with Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)
-[Building Teams tab](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
+| Extend my existing SAAS app to Teams | [Integrate web app with Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps) [Building Teams tab](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
 
 * Extend my existing SAAS App to Microsoft Teams
 * Configure authentication for multi-tenancy

@@ -11,6 +11,7 @@ Below are some key resources for Microsoft Teams platform:
 | [Microsoft Graph Developer Center](https://developer.microsoft.com/en-us/graph/) |
 | [Virtual instructor led training - Building Apps with Teams](https://note.microsoft.com/US-NOGEP-WBNR-FY20-04Apr-14-BuildMicrosoftTeamsAppsBuildingAppsandSolutionswithMicrosoftTeams-SRDEM14680-02_Registration.html) |
 | [Learn - Develop apps for Microsoft Teams](https://docs.microsoft.com/en-us/learn/paths/m365-msteams-associate/) |
+| [Microsoft Teams apps Tutorials](https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/code-samples) |
 | [Teams Developer Tech Community](https://aka.ms/TeamsCommunity) |
 | [Microsoft Teams UserVoice](https://microsoftteams.uservoice.com/) |
 | [Microsoft Teams Devlopment Samples](https://pnp.github.io/teams-dev-samples/) |
@@ -28,7 +29,7 @@ Below are some key resources for Microsoft Teams platform:
 ## Design App for Microsoft Teams
 | Topic        | Link         |
 |--------------|--------------|
-| Design priciples | [Design documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview?wt.mc_id=devcomteams_designyourapp_webpage_mw) |
+| Design principles | [Design documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview?wt.mc_id=devcomteams_designyourapp_webpage_mw) |
 | Design guidelines | [Understand your use cases](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/understand-use-cases) |
 | Designing for web and desktop | [Web and desktop design guidance](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/understand-use-cases) |
 | Designing for mobile | [Mobile design guidance](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/design/tabs-mobile) |
@@ -36,6 +37,11 @@ Below are some key resources for Microsoft Teams platform:
 | Microsoft Teams UI design components | [UI design library](https://github.com/OfficeDev/microsoft-teams-ui-component-library) |
 
 ## Build App for Microsoft Teams
+| Topic        | Link         |
+|--------------|--------------|
+| Extend my existing SAAS app to Teams | [Integrate web app with Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)
+[Building Teams tab](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
+
 * Extend my existing SAAS App to Microsoft Teams
 * Configure authentication for multi-tenancy
 * Configure SSO with Azure AD

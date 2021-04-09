@@ -35,18 +35,22 @@ Below are some key resources for Microsoft Teams platform:
 | Designing for mobile | [Mobile design guidance](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/design/tabs-mobile) |
 | Microsoft Teams UI design inspirations | [UI design kit](https://www.figma.com/community/file/916836509871353159) |
 | Microsoft Teams UI design components | [UI design library](https://github.com/OfficeDev/microsoft-teams-ui-component-library) |
+| Designing Adaptive Cards | [UI design library](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/design-effective-cards) |
 
 ## Build App for Microsoft Teams
 | Topic        | Link         |
 |--------------|--------------|
-| Extend my existing SAAS app to Teams | [Integrate web app with Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
+| Surface my SAAS app as Teams tab | [Integrate web app with Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
 |  | [Building Teams tab](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/integrating-web-apps)|
+| Configure authentication for Teams app | [Authenticate a user in Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/authentication)|
+|  | [Silent authentication](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-silent-aad)|
+|  | [Single sign-on support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)|
+|  | [Configure authentication for multi-tenant app](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant?toc=/azure/active-directory/azuread-dev/toc.json&bc=/azure/active-directory/azuread-dev/breadcrumb/toc.json)|
+| Build bot for my app | [What are conversational bots?](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/authentication)|
+|  | [Send proactive message] (https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet)|
+|  | [Build adaptive cards] (https://adaptivecards.io)|
 
 
-* Extend my existing SAAS App to Microsoft Teams
-* Configure authentication for multi-tenancy
-* Configure SSO with Azure AD
-* Develop proactive messaging solution – bots, activity feed and connectors.
 * Configure permissions for Graph API
 * Allow users to search from my App
 * Bring my Teams App into meetings experience

@@ -47,8 +47,9 @@ Below are some key resources for Microsoft Teams platform:
 |  | [Single sign-on support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)|
 |  | [Configure authentication for multi-tenant app](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant?toc=/azure/active-directory/azuread-dev/toc.json&bc=/azure/active-directory/azuread-dev/breadcrumb/toc.json)|
 | Build bot for my app | [What are conversational bots?](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/authentication)|
-|  | [Send proactive message] (https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet)|
-|  | [Build adaptive cards] (https://adaptivecards.io)|
+|  | [Send proactive message](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet)|
+|  | [Build adaptive cards](https://adaptivecards.io)|
+
 
 
 * Configure permissions for Graph API

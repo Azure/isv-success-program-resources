@@ -22,4 +22,3 @@ These articles will help you create your SaaS offer.
 * [Build the landing page for your free or trial SaaS offer in the commercial marketplace](https://docs.microsoft.com/azure/marketplace/azure-ad-free-or-trial-landing-page)
 * [Metered billing for SaaS using the commercial marketplace metering service](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)
 * [Examples of basic implementations (like this) in their programming language for SaaS offers](#No-content-for-this-topic)
-

@@ -6,6 +6,28 @@ infrastructure—even your own datacenter and other clouds—to solve challenges
 large and small. With help from Azure, you have everything you need to build
 your next great solution.
 
+- [Azure](#azure)
+  - [General Azure Resources](#general-azure-resources)
+  - [Resources by Scenario](#resources-by-scenario)
+    - [Is your solution Single Tenant or Multi-Tenant?](#is-your-solution-single-tenant-or-multi-tenant)
+      - [Multi-Tenancy](#multi-tenancy)
+  - [How is your solution hosted?](#how-is-your-solution-hosted)
+    - [Build my new solution on Azure](#build-my-new-solution-on-azure)
+    - [Migrate/Replicate my solution to Azure from another cloud](#migratereplicate-my-solution-to-azure-from-another-cloud)
+    - [Migrate my solution to Azure from on-premises](#migrate-my-solution-to-azure-from-on-premises)
+  - [What outcome(s) are you focused on for your solution?](#what-outcomes-are-you-focused-on-for-your-solution)
+    - [Scale my solution to support more customers](#scale-my-solution-to-support-more-customers)
+    - [Improve my solution's security & compliance (WAF-Security)](#improve-my-solutions-security--compliance-waf-security)
+    - [Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)](#increase-my-solutions-reliability-and-performance-waf-performnace-efficiency--reliability)
+    - [Streamline my deployments on Azure (WAF-Operational excellence)](#streamline-my-deployments-on-azure-waf-operational-excellence)
+    - [Optimize my cloud spend on Azure (WAF-Cost Optimization)](#optimize-my-cloud-spend-on-azure-waf-cost-optimization)
+    - [Add capabilities to my solution on Azure](#add-capabilities-to-my-solution-on-azure)
+      - [Manage identities on Azure](#manage-identities-on-azure)
+      - [Operational data store for my solution](#operational-data-store-for-my-solution)
+      - [AI/Machine Learning for my solution](#aimachine-learning-for-my-solution)
+      - [Data insights for my solution](#data-insights-for-my-solution)
+      - [IOT for my solution](#iot-for-my-solution)
+
 ## General Azure Resources
 
 Below are some key resources for Azure:
@@ -13,17 +35,18 @@ Below are some key resources for Azure:
 | Resource                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------ |
 | [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)                            |
-| [Directory of Azure Services](https://azure.microsoft.com/en-us/services/)                                   |
 | [Azure Charts](https://azurecharts.com/)                                                                     |
+| [Azure Code Samples](https://docs.microsoft.com/en-us/samples/browse/?products=azure)                        |
 | [Azure Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)                                       |
 | [Azure Product Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)                      |
+| [Azure Support](https://azure.microsoft.com/en-us/support/options/)                                          |
 | [Azure Tech Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)                              |
 | [Azure Well-Architected Framework (WAF)](https://docs.microsoft.com/en-us/azure/architecture/framework/)     |
-| [Cloud Adoption Framework (CAF) for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) |
-| [Azure Code Samples](https://docs.microsoft.com/en-us/samples/browse/?products=azure)                        |
 | [Channel 9 Azure Friday](https://channel9.msdn.com/)                                                         |
+| [Cloud Adoption Framework (CAF) for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) |
+| [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)                       |
+| [Directory of Azure Services](https://azure.microsoft.com/en-us/services/)                                   |
 | [Microsoft Azure YouTube Channel](https://www.youtube.com/user/windowsazure)                                 |
-| [Azure Support](https://azure.microsoft.com/en-us/support/options/)                                          |
 | [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)                           |
 
 ## Resources by Scenario
@@ -40,19 +63,21 @@ Below are some key resources for Azure:
 |                              | [Repeatable Infrastructure](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/automation-infrastructure)                                                                                                                                |
 |                              | [Deploy and manage resources in Azure by using Bicep](https://docs.microsoft.com/en-us/learn/paths/bicep-deploy/)                                                                                                                                          |
 |                              | [Cross-tenant management experiences - Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cross-tenant-management-experience)                                                                                                    |
+|                              | [Best practices for cluster isolation in Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-isolation)                                                                                             |
+|                              | [Deep dive: Mission-critical multi-tenant apps with Cosmos DB multi-master - BRK4005](https://www.youtube.com/watch?v=fOQoQnQqwwU)                                                                                                                         |
+|                              | [Building multi-tenant applications with Azure Database for PostgreSQL Hyperscale (Citus)](https://www.youtube.com/watch?v=7gAW08du6kk)                                                                                                                    |
+|                              | [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns)                                                                                                                  |
 | Hybrid Capacity Solutions    |                                                                                                                                                                                                                                                            |
 |                              | [AKS Infrastructure Multitenancy for ISVs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/aks-infrastructure-multitenancy-for-isvs/ba-p/2280124)                                                                                               |
 |                              | [Azure Cosmos DB and multi-tenant systems](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-and-multi-tenant-systems/)                                                                                                                               |
-|                              | [Best practices for cluster isolation in Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-isolation)                                                                                             |
-|                              | [Building multi-tenant applications with Azure Database for PostgreSQL Hyperscale (Citus)](https://www.youtube.com/watch?v=7gAW08du6kk)                                                                                                                    |
-|                              | [Deep dive: Mission-critical multi-tenant apps with Cosmos DB multi-master - BRK4005](https://www.youtube.com/watch?v=fOQoQnQqwwU)                                                                                                                         |
 |                              | [Learning from MYOB: Design patterns for SaaS applications on Azure SQL Database - BRK3120](https://www.youtube.com/watch?v=jjNmcKBVjrc)                                                                                                                   |
 |                              | [Manage multi-tenancy with Power BI embedded analytics](https://docs.microsoft.com/en-us/power-bi/developer/embedded/embed-multi-tenancy)                                                                                                                  |
-|                              | [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns)                                                                                                                  |
 |                              | [Multitenant SaaS on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/multi-saas/multitenant-saas)                                                                                                                              |
 |                              | [Running 1M databases on Azure SQL for a large SaaS provider: Microsoft Dynamics 365 and Power Platform.](https://devblogs.microsoft.com/azure-sql/running-1m-databases-on-azure-sql-for-a-large-saas-provider-microsoft-dynamics-365-and-power-platform/) |
 |                              | [Tenancy in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/develop/single-and-multi-tenant-apps)                                                                                                                          |
 |                              | [The Wingtip Tickets SaaS application](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app)                                                                                                                 |
+|                              | [Sharding pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)                                                                                                                                                                  |
+|                              | [Geode Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/geodes)                                                                                                                                                                       |
 
 ## How is your solution hosted?
 

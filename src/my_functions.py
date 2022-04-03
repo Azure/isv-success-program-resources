@@ -25,8 +25,10 @@ def process_md_file(filepath):
     file = open(filepath, "r")
     
     for line in file.readlines():
-        substr = line.lower().find("no-content")
-        if substr > -1:
-            print(substr)
+        ll = line.lower()
+        is_in_line = ("no-content" in ll)
+
+        if is_in_line:
+            print(ll)
     
     file.close()

@@ -4,8 +4,8 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 If you want to do any of the following this content is for you.
 
-[Sell my solution with Microsoft](./marketplace/index.md)
-
 [Build my solution on Azure](./azure/index.md)
+
+[Sell my solution with Microsoft](./marketplace/index.md)
 
 [Build/Integrate my solution with Microsoft Teams](./Teams/index.md)

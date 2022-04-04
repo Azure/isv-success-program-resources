@@ -1,6 +1,6 @@
 # ISV Success Program Resource Center
 
-Please [go here](https://azure.github.io/isv-benefits-pilot-resources) for the webiste version of this repository.
+Please [go here](https://azure.github.io/isv-benefits-pilot-resources) for the website version of this repository.
 
 If you are looking to do any of the following, this content is for you.
 

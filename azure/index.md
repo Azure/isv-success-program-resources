@@ -6,12 +6,9 @@ infrastructure—even your own datacenter and other clouds—to solve challenges
 large and small. With help from Azure, you have everything you need to build
 your next great solution.
 
-- [Azure](#azure)
+## What are you trying to accomplish?
   - [General Azure Resources](#general-azure-resources)
-  - [Resources by Scenario](#resources-by-scenario)
-    - [Is your solution Single Tenant or Multi-Tenant?](#is-your-solution-single-tenant-or-multi-tenant)
-      - [Multi-Tenancy](#multi-tenancy)
-  - [How is your solution hosted?](#how-is-your-solution-hosted)
+    - [Multi-Tenancy](#multi-tenancy)
     - [Build my new solution on Azure](#build-my-new-solution-on-azure)
     - [Migrate/Replicate my solution to Azure from another cloud](#migratereplicate-my-solution-to-azure-from-another-cloud)
     - [Migrate my solution to Azure from on-premises](#migrate-my-solution-to-azure-from-on-premises)
@@ -28,7 +25,7 @@ your next great solution.
       - [Data insights for my solution](#data-insights-for-my-solution)
       - [IOT for my solution](#iot-for-my-solution)
 
-## General Azure Resources
+## Learn from general Azure resources
 
 Below are some key resources for Azure:
 
@@ -49,11 +46,7 @@ Below are some key resources for Azure:
 | [Microsoft Azure YouTube Channel](https://www.youtube.com/user/windowsazure)                                 |
 | [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)                           |
 
-## Resources by Scenario
-
-### Is your solution Single Tenant or Multi-Tenant?
-
-#### Multi-Tenancy
+## Understand multi-tenancy
 
 | Topic                        | Link                                                                                                                                                                                                                                                       |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,8 +71,6 @@ Below are some key resources for Azure:
 |                              | [The Wingtip Tickets SaaS application](https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app)                                                                                                                 |
 |                              | [Sharding pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)                                                                                                                                                                  |
 |                              | [Geode Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/geodes)                                                                                                                                                                       |
-
-## How is your solution hosted?
 
 ### Build my new solution on Azure
 

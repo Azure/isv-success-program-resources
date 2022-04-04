@@ -7,7 +7,6 @@
 * [Publish App to App Source](/Teams/Publish-App-to-App-Source.md)
 * [Monetize App through Microsoft Commercial Marketplace](/Teams/Monetize-App-through-Microsoft-Commercial-Marketplace.md)
 
-
 ## General Microsoft Teams Platform Resources
 
 Below are some key resources for Microsoft Teams platform.

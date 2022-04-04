@@ -8,7 +8,7 @@ If you are looking to do any of the following, this content is for you.
 
 [Publish my application to the commercial marketplace](https://azure.github.io/isv-success-program-resources/marketplace/index.md)
 
-[Build/Integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams/index.md)
+[Build or integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams/index.md)
 
 ## Contributing
 

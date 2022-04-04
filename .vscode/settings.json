@@ -1,9 +1,10 @@
 {
     "cSpell.words": [
         "Architected",
+        "autoscale",
         "Kubernetes",
         "Multitenancy",
         "Multitenant",
-        "autoscale"
+        "transactable"
     ]
 }

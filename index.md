@@ -8,4 +8,4 @@ If you want to do any of the following this content is for you.
 
 [Publish my application to the commercial marketplace](./marketplace/index.md)
 
-[Build/Integrate my solution with Microsoft Teams](./Teams/index.md)
+[Build or integrate my solution with Microsoft Teams](./teams/index.md)

@@ -1,10 +1,17 @@
 # Microsoft Teams Apps
 
-This guide will ask you a set of questions related to building App on Microsoft Teams. As we narrow things down, you will quickly be directed to a list 
-of links which point to all sorts of resources: articles, videos, code samples, and more. 
+## What are you trying to accomplish?
 
-## **General Microsoft Teams Platform Resources**
-Below are some key resources for Microsoft Teams platform:
+* [Design App for Microsoft Teams](/Teams/Design-App-for-Microsoft-Teams.md)
+* [Build App for Microsoft Teams](/Teams/Build-App-for-Microsoft-Teams.md)
+* [Publish App to App Source](/Teams/Publish-App-to-App-Source.md)
+* [Monetize App through Microsoft Commercial Marketplace](/Teams/Monetize-App-through-Microsoft-Commercial-Marketplace.md)
+
+
+## General Microsoft Teams Platform Resources
+
+Below are some key resources for Microsoft Teams platform.
+
 | Resource            | 
 |---------------------|
 | [Teams Developer Documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
@@ -18,11 +25,3 @@ Below are some key resources for Microsoft Teams platform:
 | [Microsoft Teams Developer Blogs](https://developer.microsoft.com/en-us/microsoft-teams/blogs/) |
 | [Microsoft Teams Support](https://support.microsoft.com/en-us/teams) |
 | [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/) |
-
-## What are you trying to accomplish?
-
-* [Design App for Microsoft Teams](/Teams/Design-App-for-Microsoft-Teams.md)
-* [Build App for Microsoft Teams](/Teams/Build-App-for-Microsoft-Teams.md)
-* [Publish App to App Source](/Teams/Publish-App-to-App-Source.md)
-* [Monetize App through Microsoft Commercial Marketplace](/Teams/Monetize-App-through-Microsoft-Commercial-Marketplace.md)
-

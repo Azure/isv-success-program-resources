@@ -1,11 +1,3 @@
-# Marketplace solutions
-
-Selling with Microsoft is a broad topic. Your product, development, sales, and leadership teams work
-together. *Team work makes the dream work.* 
-
-This guide will ask you a set of questions. As we narrow things down, you will quickly be directed to a list 
-of links which point to all sorts of resources: articles, videos, code samples, and more. 
-
 ## What are you trying to accomplish?
 
 * [I want to understand what it means to sell with Microsoft](/marketplace/Sell-with-Microsoft.md)

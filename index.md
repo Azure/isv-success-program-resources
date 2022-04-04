@@ -6,6 +6,6 @@ If you want to do any of the following this content is for you.
 
 [Build my solution on Azure](./azure/index.md)
 
-[Sell my solution with Microsoft](./marketplace/index.md)
+[Publish my application to the commercial marketplace](./marketplace/index.md)
 
 [Build/Integrate my solution with Microsoft Teams](./Teams/index.md)

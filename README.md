@@ -6,7 +6,7 @@ If you are looking to do any of the following, this content is for you.
 
 [Build my solution on Azure](https://azure.github.io/isv-success-program-resources/azure/index.md)
 
-[Sell my solution with Microsoft](https://azure.github.io/isv-success-program-resources/marketplace/index.md)
+[Publish my application to the commercial marketplace](https://azure.github.io/isv-success-program-resources/marketplace/index.md)
 
 [Build/Integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams/index.md)
 

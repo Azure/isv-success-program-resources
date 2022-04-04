@@ -1,6 +1,6 @@
-## Create or maintain offer listing
+# Get help creating or maintaining my listing
 
-Get help creating and maintaining your listing
+## Microsoft Docs
 
 * [Publishing guide by offer type](https://docs.microsoft.com/azure/marketplace/publisher-guide-by-offer-type)
 * [How to review and publish an offer to the commercial marketplace](https://docs.microsoft.com/azure/marketplace/review-publish-offer)

@@ -2,10 +2,10 @@
 
 ## What are you trying to accomplish?
 
-* [Design App for Microsoft Teams](/Teams/Design-App-for-Microsoft-Teams.md)
-* [Build App for Microsoft Teams](/Teams/Build-App-for-Microsoft-Teams.md)
-* [Publish App to App Source](/Teams/Publish-App-to-App-Source.md)
-* [Monetize App through Microsoft Commercial Marketplace](/Teams/Monetize-App-through-Microsoft-Commercial-Marketplace.md)
+* [Design App for Microsoft Teams](./design-app-for-microsoft-teams.md)
+* [Build App for Microsoft Teams](./build-app-for-microsoft-teams.md)
+* [Publish App to App Source](./publish-app-to-app-source.md)
+* [Sell App through Microsoft Commercial Marketplace](./monetize-app-through-microsoft-commercial-marketplace.md)
 
 ## General Microsoft Teams Platform Resources
 

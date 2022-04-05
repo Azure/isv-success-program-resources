@@ -1,4 +1,4 @@
-from email import contentmanager
+from pathlib import Path
 from importlib.resources import contents
 from logging import RootLogger
 import os
@@ -9,17 +9,16 @@ def process_md_files(root_dir):
     
     print('Walking: ' + os.path.abspath(root_dir))
 
-    for dirpath, dirnames, files in os.walk(root_dir):
-        for item in files:
-            if item.endswith(".md"):
-                fileNamePath = str(os.path.join(dirpath,item))
-                fullFileNamePath = os.path.abspath(fileNamePath)
-                process_md_file(fullFileNamePath)
+    for path in Path(root_dir).rglob("*.md"):
+        abs_file_path = os.path.abspath(path)
+        list_significant_lines_in_md_file(abs_file_path)
+        lowercase_the_file_name(abs_file_path)
 
-# operate on a single file
-def process_md_file(filepath):
+# look into a single file
+def list_significant_lines_in_md_file(filepath):
 
     print(filepath)
+
     file = open(filepath, "r")
     
     line_count = 0
@@ -29,3 +28,7 @@ def process_md_file(filepath):
             print("Line: " + str(line_count) + " " + line, end="")
     
     file.close()
+
+# ensure the file name is lowercase
+def lowercase_the_file_name(filepath):
+    os.rename(filepath, filepath.lower())

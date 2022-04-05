@@ -5,6 +5,7 @@
         "Kubernetes",
         "Multitenancy",
         "Multitenant",
+        "rglob",
         "transactable"
     ]
 }

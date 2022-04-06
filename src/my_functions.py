@@ -12,7 +12,7 @@ def process_md_files(root_dir):
     for path in Path(root_dir).rglob("*.md"):
         abs_file_path = os.path.abspath(path)
         list_significant_lines_in_md_file(abs_file_path)
-        lowercase_the_file_name(abs_file_path)
+        # lowercase_the_file_name(abs_file_path)
 
 # look into a single file
 def list_significant_lines_in_md_file(filepath):

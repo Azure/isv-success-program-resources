@@ -22,11 +22,7 @@ There are three transactable offer types in the Azure Marketplace.
 
 [Transact overview](https://docs.microsoft.com/en-us/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-overview) helps you understand some of the differences between transactable offer types.
 
-### Transactable offer types detail
-
-The following offer types address only the offer types that are transactable on the Azure Marketplace.
-
-#### Virtual Machine offers 
+### Virtual Machine offers 
 
 Virtual Machine offers allow publishers to install their software on a virtual machine.  
 
@@ -36,7 +32,7 @@ Virtual Machine offers allow publishers to install their software on a virtual m
 
 [Learn more about Virtual Machine offers here](create-or-maintain-a-virtual-machine-offer)
 
-#### SaaS offers 
+### SaaS offers 
 
 SaaS offers allow for software that is delivered as SaaS to be transacted on the Azure Marketplace. 
 
@@ -45,7 +41,7 @@ SaaS offers allow for software that is delivered as SaaS to be transacted on the
 
 [Learn more about SaaS offers here](create-or-maintain-saas-offer)
 
-#### Azure Managed Application offers
+### Azure Managed Application offers
 
 - Runs in the customer's tenant
 - Enables the publisher to manage the resources in the customer's tenant

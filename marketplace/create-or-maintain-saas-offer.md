@@ -27,15 +27,13 @@ These articles will help you create your SaaS offer.
 - [Build the landing page for your free or trial SaaS offer in the commercial marketplace](https://docs.microsoft.com/azure/marketplace/azure-ad-free-or-trial-landing-page)
 - [Metered billing for SaaS using the commercial marketplace metering service](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)
 
-## Mastering SaaS Offers videos and hands-on labs
+## Videos and hands-on labs
 
-▶️[Learn about SaaS offers](https://aka.ms/Mastering-the-Marketplace/saas) with video content and hands-on labs from the Mastering the marketplace learning library.
-
-## The SaaS Accelerator
+▶️[Learn about custom SaaS offers](https://aka.ms/Mastering-the-Marketplace/saas) with video content and hands-on labs from the **Mastering the Marketplace** learning library.
 
 The [SaaS Accelerator](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator) - A complete reference implementation of a SaaS offer you can use to jump start your SaaS solution into the Azure marketplace. Install a complete SaaS solution to the marketplace in 20 minutes or less.
 
-▶️[Learn about the SaaS Accelerator](https://aka.ms/Mastering-the-Marketplace/saas-accelerator) with video content and hands-on labs from the Mastering the marketplace learning library.
+▶️[Learn about the SaaS Accelerator](https://aka.ms/Mastering-the-Marketplace/saas-accelerator) with video content and hands-on labs from the **Mastering the Marketplace** learning library.
 
 ## Client libraries
 
@@ -49,8 +47,3 @@ The following client libraries enable developers to more quickly onboard their c
 ## Microsoft Learn courses
 
 [Create a SaaS offer for the commercial marketplace](https://docs.microsoft.com/learn/modules/create-saas-offer-commercial-marketplace/)
-
-## Other resources
-
-- [Technical guides: SaaS Offer overview](https://assetsprod.microsoft.com/mpn/marketplace-saas-offer-overview.pptx)
-- [Technical guides: Marketplace SaaS offer billing plans](https://partner.microsoft.com/asset/collection/commercial-marketplace-technical-guides#/)

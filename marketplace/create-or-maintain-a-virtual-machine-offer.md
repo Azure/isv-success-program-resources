@@ -9,6 +9,14 @@ nav_exclude: true
 
 ## Create or maintain a virtual machine offer
 
+The following content helps you create and manage your virtual machine offers in the commercial marketplace.
+
+### Video and hands-n labs
+
+
+
+### Microsoft Docs
+
 * [Technical guides: VM Offer overview](https://assetsprod.microsoft.com/mpn/vm-offer-overview.pptx)
 * [How to plan a virtual machine offer](https://docs.microsoft.com/azure/marketplace/marketplace-virtual-machines)
 * [How to create a virtual machine using an approved base image](https://docs.microsoft.com/azure/marketplace/azure-vm-create-using-approved-base)

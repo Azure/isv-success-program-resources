@@ -29,13 +29,13 @@ These articles will help you create your SaaS offer.
 
 ## Mastering SaaS Offers videos and hands-on labs
 
-[Learn about SaaS offers](https://aka.ms/Mastering-the-Marketplace/saas) with video content and hands-on labs from the Mastering the marketplace learning library.
+▶️[Learn about SaaS offers](https://aka.ms/Mastering-the-Marketplace/saas) with video content and hands-on labs from the Mastering the marketplace learning library.
 
 ## The SaaS Accelerator
 
 The [SaaS Accelerator](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator) - A complete reference implementation of a SaaS offer you can use to jump start your SaaS solution into the Azure marketplace. Install a complete SaaS solution to the marketplace in 20 minutes or less.
 
-[Learn about the SaaS Accelerator](https://aka.ms/Mastering-the-Marketplace/saas-accelerator) with video content and hands-on labs from the Mastering the marketplace learning library.
+▶️[Learn about the SaaS Accelerator](https://aka.ms/Mastering-the-Marketplace/saas-accelerator) with video content and hands-on labs from the Mastering the marketplace learning library.
 
 ## Client libraries
 

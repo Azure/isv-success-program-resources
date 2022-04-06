@@ -1,0 +1,14 @@
+{"0": {
+    "doc": "Home",
+    "title": "ISV Success Program Resource Center",
+    "content": "Whether you are looking to move your application to the cloud, help your cloud native application perform at its best, or even explore selling with Microsoft, we are here to help. If you can’t see how to accomplish your scenario with the information provided here, let us know in the issues. If you want to do any of the following this content is for you. Build my solution on Azure . Publish my application to the commercial marketplace . Build or integrate my solution with Microsoft Teams . ",
+    "url": "http://localhost:4000/just-the-docs/#isv-success-program-resource-center",
+    "relUrl": "/#isv-success-program-resource-center"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/",
+    "relUrl": "/"
+  }
+}

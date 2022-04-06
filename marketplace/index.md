@@ -10,8 +10,8 @@ description: "Get help with the commercial marketplace."
 
 ## What are you trying to accomplish?
 
-* [Selecting the right transactable offer type](./offer-type-selection)
-* [Creating or maintaining my SaaS offer](./create-or-maintain-saas-offer)
-* [Creating or maintaining my Azure managed application offer](./create-or-maintain-azure-managed-application-offer)
-* [Creating or maintaining my virtual machine offer](./create-or-maintain-a-virtual-machine-offer)
+- [Selecting the right transactable offer type](./offer-type-selection)
+- [Creating or maintaining my SaaS offer](./create-or-maintain-saas-offer)
+- [Creating or maintaining my Azure managed application offer](./create-or-maintain-azure-managed-application-offer)
+- [Creating or maintaining my virtual machine offer](./create-or-maintain-a-virtual-machine-offer)
 

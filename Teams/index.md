@@ -1,3 +1,11 @@
+---
+layout: default
+title: Microsoft Teams
+nav_order: 4
+description: "Build solutions for Microsoft Teams"
+# permalink: /
+---
+
 # Microsoft Teams Apps
 
 ## What are you trying to accomplish?

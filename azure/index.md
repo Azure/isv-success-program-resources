@@ -1,29 +1,33 @@
+---
+layout: default
+title: Azure
+nav_order: 2
+description: "Get help with Azure."
+# permalink: /
+---
+
 # Azure
 
-Achieve your goals with the freedom and flexibility to build, manage, and deploy
-your applications anywhere. Use your preferred languages, frameworks, and
-infrastructure—even your own datacenter and other clouds—to solve challenges
-large and small. With help from Azure, you have everything you need to build
-your next great solution.
-
 ## What are you trying to accomplish?
-  - [General Azure Resources](#general-azure-resources)
-    - [Multi-Tenancy](#multi-tenancy)
-    - [Build my new solution on Azure](#build-my-new-solution-on-azure)
-    - [Migrate/Replicate my solution to Azure from another cloud](#migratereplicate-my-solution-to-azure-from-another-cloud)
-    - [Migrate my solution to Azure from on-premises](#migrate-my-solution-to-azure-from-on-premises)
-  - [What outcome(s) are you focused on for your solution?](#what-outcomes-are-you-focused-on-for-your-solution)
-    - [Scale my solution to support more customers](#scale-my-solution-to-support-more-customers)
-    - [Improve my solution's security & compliance (WAF-Security)](#improve-my-solutions-security--compliance-waf-security)
-    - [Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)](#increase-my-solutions-reliability-and-performance-waf-performnace-efficiency--reliability)
-    - [Streamline my deployments on Azure (WAF-Operational excellence)](#streamline-my-deployments-on-azure-waf-operational-excellence)
-    - [Optimize my cloud spend on Azure (WAF-Cost Optimization)](#optimize-my-cloud-spend-on-azure-waf-cost-optimization)
-    - [Add capabilities to my solution on Azure](#add-capabilities-to-my-solution-on-azure)
-      - [Manage identities on Azure](#manage-identities-on-azure)
-      - [Operational data store for my solution](#operational-data-store-for-my-solution)
-      - [AI/Machine Learning for my solution](#aimachine-learning-for-my-solution)
-      - [Data insights for my solution](#data-insights-for-my-solution)
-      - [IOT for my solution](#iot-for-my-solution)
+
+<!-- no toc -->
+- [Learn from general Azure resources](#learn-from-general-azure-resources)
+- [Understand multi-tenancy](#understand-multi-tenancy)
+  - [Build my new solution on Azure](#build-my-new-solution-on-azure)
+  - [Migrate/Replicate my solution to Azure from another cloud](#migratereplicate-my-solution-to-azure-from-another-cloud)
+  - [Migrate my solution to Azure from on-premises](#migrate-my-solution-to-azure-from-on-premises)
+- [What outcome(s) are you focused on for your solution?](#what-outcomes-are-you-focused-on-for-your-solution)
+  - [Scale my solution to support more customers](#scale-my-solution-to-support-more-customers)
+  - [Improve my solution's security & compliance (WAF-Security)](#improve-my-solutions-security--compliance-waf-security)
+  - [Increase my solution's reliability and performance (WAF-Performnace Efficiency & Reliability)](#increase-my-solutions-reliability-and-performance-waf-performnace-efficiency--reliability)
+  - [Streamline my deployments on Azure (WAF-Operational excellence)](#streamline-my-deployments-on-azure-waf-operational-excellence)
+  - [Optimize my cloud spend on Azure (WAF-Cost Optimization)](#optimize-my-cloud-spend-on-azure-waf-cost-optimization)
+  - [Add capabilities to my solution on Azure](#add-capabilities-to-my-solution-on-azure)
+    - [Manage identities on Azure](#manage-identities-on-azure)
+    - [Operational data store for my solution](#operational-data-store-for-my-solution)
+    - [AI/Machine Learning for my solution](#aimachine-learning-for-my-solution)
+    - [Data insights for my solution](#data-insights-for-my-solution)
+    - [IOT for my solution](#iot-for-my-solution)
 
 ## Learn from general Azure resources
 

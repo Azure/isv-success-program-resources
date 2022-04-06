@@ -7,14 +7,16 @@ nav_exclude: true
 
 # Commercial marketplace
 
-## Create or maintain Azure managed application offer
+## Videos and hands-on labs
+
+▶️[Learn about Azure Managed Application offers](https://aka.ms/Mastering-the-Marketplace/ama) with video content and hands-on labs from the **Mastering the Marketplace** learning library.
+
+## Microsoft docs
 
 * [Reference to client libraries from Metering API DOCS](https://docs.microsoft.com/azure/marketplace/partner-center-portal/marketplace-metering-service-apis)
 * [Plan Azure application offers](https://docs.microsoft.com/azure/marketplace/plan-azure-application-offer)
-* [Security for Azure Managed Apps](#No-content-for-this-topic)
 * [Plan a solution template for an Azure application offer](https://docs.microsoft.com/azure/marketplace/plan-azure-app-solution-template)
 * [Plan a managed application for an Azure application offer](https://docs.microsoft.com/azure/marketplace/plan-azure-app-managed-app)
-* [Developing an AMA, best practices](#No-content-for-this-topic)
 * [How to create an Azure application offer in the commercial marketplace](https://docs.microsoft.com/azure/marketplace/create-new-azure-apps-offer)
 * [Configure a managed application plan](https://docs.microsoft.com/azure/marketplace/create-new-azure-apps-offer-managed)
 * [How to create plans for your Azure application offer](https://docs.microsoft.com/azure/marketplace/create-new-azure-apps-offer-plans)
@@ -27,5 +29,7 @@ nav_exclude: true
 * [How to test and publish an Azure application offer](https://docs.microsoft.com/azure/marketplace/create-new-azure-apps-offer-test-publish)
 * [Managed application metered billing](https://docs.microsoft.com/azure/marketplace/partner-center-portal/azure-app-metered-billing)
 * [Partner Center submission API to onboard Azure apps in Partner Center](https://docs.microsoft.com/azure/marketplace/partner-center-portal/azure-app-apis)
-* [Examples of metering with AMAs](#No-content-for-this-topic)
 
+# Sample code
+
+[Metered billing accelerator](https://github.com/microsoft/metered-billing-accelerator): a set of sample projects that show metered billing in multiple scenarios.

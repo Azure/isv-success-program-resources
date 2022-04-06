@@ -11,9 +11,9 @@ nav_exclude: true
 
 The following content helps you create and manage your virtual machine offers in the commercial marketplace.
 
-### Video and hands-n labs
+### Video and hands-on labs
 
-
+▶️[Learn about virtual machine offers](https://aka.ms/Mastering-the-Marketplace/vm) with video content and hands-on labs from the **Mastering the Marketplace** learning library.
 
 ### Microsoft Docs
 

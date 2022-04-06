@@ -432,13 +432,13 @@ h6, .text-zeta { font-size: 11px !important; color: #44434d; }
 
 .btn-primary.selected:hover { background-color: #1752c4; }
 
-.btn-purple { color: #fff; background-color: #005597; background-image: linear-gradient(#0069bb, #005597); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
+.btn-purple { color: #fff; background-color: #5739ce; background-image: linear-gradient(#6f55d5, #5739ce); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
 
-.btn-purple:hover, .btn-purple.zeroclipboard-is-hover { color: #fff; background-color: #004f8d; background-image: linear-gradient(#0061ab, #004f8d); }
+.btn-purple:hover, .btn-purple.zeroclipboard-is-hover { color: #fff; background-color: #5132cb; background-image: linear-gradient(#6549d2, #5132cb); }
 
-.btn-purple:active, .btn-purple.selected, .btn-purple.zeroclipboard-is-active { background-color: #004d88; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
+.btn-purple:active, .btn-purple.selected, .btn-purple.zeroclipboard-is-active { background-color: #4f31c6; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
 
-.btn-purple.selected:hover { background-color: #003e6e; }
+.btn-purple.selected:hover { background-color: #472cb2; }
 
 .btn-blue { color: #fff; background-color: #005597; background-image: linear-gradient(#0069bb, #005597); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
 

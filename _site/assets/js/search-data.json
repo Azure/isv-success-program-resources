@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Commercial marketplace",
     "title": "Client libraries",
-    "content": "The following client libraries enable developers to more quickly onboard their custom SaaS offers to the commercial marketplace. | Client library for .NET | Repository | NuGet | . | | Client library for Java | Repository | . | | Client library for Python | Repository | PyPi | . | | Client library for Node.js | Repository | NPM for SaaS | NPM for Metering | . | . ",
+    "content": "The following client libraries enable developers to more quickly onboard their custom SaaS offers to the commercial marketplace. | Client library for .NET : Repository : NuGet | Client library for Java : Repository | Client library for Python : Repository : PyPi | Client library for Node.js : Repository : NPM for SaaS : NPM for Metering | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/#client-libraries",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/#client-libraries"
   },"14": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Home",
     "title": "ISV Success Program Resource Center",
-    "content": "Whether you are looking to move your application to the cloud, help your cloud native application perform at its best, or even explore selling with Microsoft, we are here to help. If you can’t see how to accomplish your scenario with the information provided here, let us know in the issues. What are you trying to accomplish? . Build my solution on Azure . Publish my application to the commercial marketplace . Build or integrate my solution with Microsoft Teams . ",
+    "content": "Whether you are looking to move your application to the cloud, help your cloud native application perform at its best, or even explore selling with Microsoft, we are here to help. What are you trying to accomplish? . Build my solution on Azure . Publish my application to the commercial marketplace . Build or integrate my solution with Microsoft Teams . ",
     "url": "http://localhost:4000/isv-success-program-resources/#isv-success-program-resource-center",
     "relUrl": "/#isv-success-program-resource-center"
   },"30": {

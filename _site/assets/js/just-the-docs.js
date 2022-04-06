@@ -236,7 +236,7 @@ function searchLoaded(index, docs) {
             var previewEnd = position[0] + position[1];
             var ellipsesBefore = true;
             var ellipsesAfter = true;
-            for (var k = 0; k < 3; k++) {
+            for (var k = 0; k < 5; k++) {
               var nextSpace = doc.content.lastIndexOf(' ', previewStart - 2);
               var nextDot = doc.content.lastIndexOf('. ', previewStart - 2);
               if ((nextDot >= 0) && (nextDot > nextSpace)) {
@@ -251,7 +251,7 @@ function searchLoaded(index, docs) {
               }
               previewStart = nextSpace + 1;
             }
-            for (var k = 0; k < 3; k++) {
+            for (var k = 0; k < 10; k++) {
               var nextSpace = doc.content.indexOf(' ', previewEnd + 1);
               var nextDot = doc.content.indexOf('. ', previewEnd + 1);
               if ((nextDot >= 0) && (nextDot < nextSpace)) {
@@ -311,7 +311,7 @@ function searchLoaded(index, docs) {
         resultLink.appendChild(resultPreviews);
 
         var content = doc.content;
-        for (var j = 0; j < Math.min(previewPositions.length, 2); j++) {
+        for (var j = 0; j < Math.min(previewPositions.length, 3); j++) {
           var position = previewPositions[j];
 
           var resultPreview = document.createElement('div');

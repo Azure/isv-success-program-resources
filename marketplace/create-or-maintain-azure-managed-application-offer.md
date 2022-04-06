@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 # Commercial marketplace
+Azure Managed Application offers
 
 ## Videos and hands-on labs
 

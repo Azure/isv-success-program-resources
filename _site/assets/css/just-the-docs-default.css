@@ -140,7 +140,7 @@ img { max-width: 100%; height: auto; }
 
 hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border: 0; }
 
-.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }
+.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #eeebee; }
 
 @media (min-width: 50rem) { .side-bar { flex-wrap: nowrap; position: fixed; width: 248px; height: 100%; flex-direction: column; border-right: 1px solid #eeebee; align-items: flex-end; } }
 
@@ -156,7 +156,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 @media (min-width: 50rem) { .main-content-wrap { padding-top: 2rem; padding-bottom: 2rem; } }
 
-.main-header { z-index: 0; display: none; background-color: #f5f6fa; }
+.main-header { z-index: 0; display: none; background-color: #eeebee; }
 
 @media (min-width: 50rem) { .main-header { display: flex; justify-content: space-between; height: 60px; background-color: #fff; border-bottom: 1px solid #eeebee; } }
 

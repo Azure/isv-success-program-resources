@@ -4,11 +4,11 @@ Please [go here](https://azure.github.io/isv-success-program-resources) for the 
 
 If you are looking to do any of the following, this content is for you.
 
-[Build my solution on Azure](https://azure.github.io/isv-success-program-resources/azure/index.md)
+[Build my solution on Azure](https://azure.github.io/isv-success-program-resources/azure)
 
-[Publish my application to the commercial marketplace](https://azure.github.io/isv-success-program-resources/marketplace/index.md)
+[Publish my application to the commercial marketplace](https://azure.github.io/isv-success-program-resources/marketplace)
 
-[Build or integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams/index.md)
+[Build or integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams)
 
 ## Contributing
 

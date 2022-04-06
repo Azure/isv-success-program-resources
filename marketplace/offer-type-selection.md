@@ -25,7 +25,7 @@ Virtual Machine offers allow publishers to install their software on a virtual m
 - Pricing is based on usage of the product 
 - Does not support metered billing
 
-[Learn more about Virtual Machine offers here](create-or-maintain-a-virtual-machine-offer.md)
+[Learn more about Virtual Machine offers here](create-or-maintain-a-virtual-machine-offer)
 
 ### SaaS offers 
 
@@ -34,7 +34,7 @@ SaaS offers allow for software that is delivered as SaaS to be transacted on the
 - Ideally, a SaaS offer integrates with a multi-tenant application, but this is not required.
 - A SaaS offer runs in the publisher's tenant.
 
-[Learn more about SaaS offers here](create-or-maintain-saas-offer.md)
+[Learn more about SaaS offers here](create-or-maintain-saas-offer)
 
 ### Azure Managed Applications
 
@@ -42,4 +42,4 @@ SaaS offers allow for software that is delivered as SaaS to be transacted on the
 - Enables the publisher to manage the resources in the customer's tenant
 - Deploys via an ARM template
 
-[Learn more about Managed Application offers here](create-or-maintain-azure-managed-application-offer.md)
+[Learn more about Managed Application offers here](create-or-maintain-azure-managed-application-offer)

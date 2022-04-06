@@ -1,4 +1,13 @@
-## Build App for Microsoft Teams
+---
+layout: default
+title: Microsoft Teams
+description: "Get help with Microsoft Teams."
+nav_exclude: true
+---
+
+# Microsoft Teams
+
+## Build an App
 
 
 | Topic        | Link         |

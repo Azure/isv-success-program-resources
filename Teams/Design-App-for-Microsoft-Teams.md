@@ -1,4 +1,14 @@
-## Design App for Microsoft Teams
+---
+layout: default
+title: Microsoft Teams
+description: "Get help with Microsoft Teams."
+nav_exclude: true
+---
+
+# Microsoft Teams
+
+## Design an App
+
 | Topic        | Link         |
 |--------------|--------------|
 | Design principles | [Design documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview?wt.mc_id=devcomteams_designyourapp_webpage_mw) |

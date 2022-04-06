@@ -6,7 +6,7 @@ description: "Build solutions for Microsoft Teams"
 # permalink: /
 ---
 
-# Microsoft Teams Apps
+# Microsoft Teams
 
 ## What are you trying to accomplish?
 

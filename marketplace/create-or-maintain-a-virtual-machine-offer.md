@@ -1,3 +1,12 @@
+---
+layout: default
+title: Commercial marketplace
+description: "Get help with the commercial marketplace."
+nav_exclude: true
+---
+
+# Commercial marketplace
+
 ## Create or maintain a virtual machine offer
 
 * [Technical guides: VM Offer overview](https://assetsprod.microsoft.com/mpn/vm-offer-overview.pptx)

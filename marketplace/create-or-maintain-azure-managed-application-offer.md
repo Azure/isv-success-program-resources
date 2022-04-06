@@ -1,3 +1,12 @@
+---
+layout: default
+title: Commercial marketplace
+description: "Get help with the commercial marketplace."
+nav_exclude: true
+---
+
+# Commercial marketplace
+
 ## Create or maintain Azure managed application offer
 
 * [Reference to client libraries from Metering API DOCS](https://docs.microsoft.com/azure/marketplace/partner-center-portal/marketplace-metering-service-apis)

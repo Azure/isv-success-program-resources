@@ -41,10 +41,10 @@ The [SaaS Accelerator](https://github.com/Azure/Commercial-Marketplace-SaaS-Acce
 
 The following client libraries enable developers to more quickly onboard their custom SaaS offers to the commercial marketplace.
 
-- Client library for .NET | [Repository](https://github.com/microsoft/commercial-marketplace-client-dotnet) | [NuGet](https://www.nuget.org/packages/Marketplace.SaaS.Client)
-- Client library for Java | [Repository](https://github.com/microsoft/commercial-marketplace-client-java)
-- Client library for Python | [Repository](https://github.com/microsoft/commercial-marketplace-client-python) | [PyPi](https://pypi.org/project/azuremarketplace/)
-- Client library for Node.js | [Repository](https://github.com/microsoft/commercial-marketplace-client-node) | [NPM for SaaS](https://www.npmjs.com/package/microsoft.marketplace.saas) | [NPM for Metering](https://www.npmjs.com/package/microsoft.marketplace.metering)
+- Client library for .NET : [Repository](https://github.com/microsoft/commercial-marketplace-client-dotnet) : [NuGet](https://www.nuget.org/packages/Marketplace.SaaS.Client)
+- Client library for Java : [Repository](https://github.com/microsoft/commercial-marketplace-client-java)
+- Client library for Python : [Repository](https://github.com/microsoft/commercial-marketplace-client-python) : [PyPi](https://pypi.org/project/azuremarketplace/)
+- Client library for Node.js : [Repository](https://github.com/microsoft/commercial-marketplace-client-node) : [NPM for SaaS](https://www.npmjs.com/package/microsoft.marketplace.saas) : [NPM for Metering](https://www.npmjs.com/package/microsoft.marketplace.metering)
 
 ## Microsoft Learn courses
 

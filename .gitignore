@@ -69,3 +69,4 @@ $RECYCLE.BIN/
 *.lnk
 __pycache__
 .jekyll-cache
+.jekyll-cache/

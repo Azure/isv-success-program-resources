@@ -10,6 +10,8 @@ If you are looking to do any of the following, this content is for you.
 
 [Build or integrate my solution with Microsoft Teams](https://azure.github.io/isv-success-program-resources/teams)
 
+[Attend an upcoming event](https://azure.github.io/isv-success-program-resources/#attend-an-event)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a

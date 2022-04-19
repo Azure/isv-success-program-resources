@@ -16,7 +16,7 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 [Publish my application to the commercial marketplace](./marketplace)
 
-[Build or integrate my solution with Microsoft Teams](./teams)
+[Build or integrate my solution with Microsoft Teams](./Teams)
 
 [Visit the ISV Hub](https://www.microsoft.com/isv)
 

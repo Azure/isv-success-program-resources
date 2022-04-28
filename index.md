@@ -23,14 +23,8 @@ Whether you are looking to move your application to the cloud, help your cloud n
 ## Attend an event
 
 
-**May 3, 2022 - Microsoft SaaS Day (Western Europe)**
-
-Join Microsoft SaaS Day – a full day conference addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones.
-
-[Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html)
-
-Date | Event | Link
+Date | Event | Description and Link
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
+May 3, 2022 | Microsoft SaaS Day (Western Europe | Join Microsoft SaaS Day – a full day conference addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones. [Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html)
 Content in the first column | Content in the second column | Content in the second columns
 

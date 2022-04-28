@@ -22,9 +22,9 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 ## Attend an event
 
-Upcoming events will be posted soon. Here you will find webinars and workshops as they are scheduled.
+**May 3, 2022 - Microsoft SaaS Day (Western Europe)**
 
-May 3, 2022 - Microsoft SaaS Day (Western Europe) 
+Join Microsoft SaaS Day – a full day conference addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones. Learn from the best: leaders from the SaaS organizations will be sharing their insights and learnings. We will host guest speakers such as RedHat, PwC, Tackle.io, Improsec and Consensys. The content of this event is relevant for SaaS and Software Companies, ISVs (Independent Software Vendors), across all industries, maturity levels and in any cloud, but everyone is welcome!
 
 [Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html)
 

@@ -10,10 +10,10 @@ description: "Build solutions for Microsoft Teams"
 
 ## What are you trying to accomplish?
 
-* [Design App for Microsoft Teams](./design-app-for-microsoft-teams)
-* [Build App for Microsoft Teams](./build-app-for-microsoft-teams)
-* [Publish App to App Source](./publish-app-to-app-source)
-* [Sell App through Microsoft Commercial Marketplace](./monetize-app-through-microsoft-commercial-marketplace)
+* [Design App for Microsoft Teams](./Design-App-for-Microsoft-Teams.md)
+* [Build App for Microsoft Teams](./Build-App-for-Microsoft-Teams.md)
+* [Publish App to App Source](./Publish-App-to-App-Source.md)
+* [Sell App through Microsoft Commercial Marketplace](./Monetize-App-through-Microsoft-Commercial-Marketplace.md)
 
 ## General Microsoft Teams Platform Resources
 

@@ -2,217 +2,223 @@
     "doc": "Microsoft Teams",
     "title": "Microsoft Teams",
     "content": " ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/build-app-for-microsoft-teams/",
-    "relUrl": "/Teams/build-app-for-microsoft-teams/"
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Build-App-for-Microsoft-Teams/",
+    "relUrl": "/teams/Build-App-for-Microsoft-Teams/"
   },"1": {
     "doc": "Microsoft Teams",
     "title": "Build an App",
     "content": "| Topic | Link | . | Surface my SAAS app as Teams tab | Integrate web app with Microsoft Teams | . |   | Building Teams tab | . | Configure authentication for my app | Authenticate a user in Teams | . |   | Silent authentication | . |   | Single sign-on support for tabs | . |   | Configure authentication for multi-tenant app | . | Build bot for my app | What are conversational bots? | . |   | Send proactive message | . |   | Build adaptive cards | . | Use Graph API with my Teams app | Microsoft Teams API overview | . |   | Microsoft Graph Toolkit | . |   | Proactive installation of app | . |   | Enable Resource Specific Consent | . | Integrate my app in Teams meeting experience | Building apps for Teams meeting | . |   | Meeting app sample | . |   | Meeting app design guidance | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/build-app-for-microsoft-teams/#build-an-app",
-    "relUrl": "/Teams/build-app-for-microsoft-teams/#build-an-app"
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Build-App-for-Microsoft-Teams/#build-an-app",
+    "relUrl": "/teams/Build-App-for-Microsoft-Teams/#build-an-app"
   },"2": {
+    "doc": "Microsoft Teams",
+    "title": "Microsoft Teams",
+    "content": " ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Design-App-for-Microsoft-Teams/",
+    "relUrl": "/teams/Design-App-for-Microsoft-Teams/"
+  },"3": {
+    "doc": "Microsoft Teams",
+    "title": "Design an App",
+    "content": "| Topic | Link | . | Design principles | Design documentation | . | Design guidelines | Understand your use cases | . | Designing for web and desktop | Web and desktop design guidance | . | Designing for mobile | Mobile design guidance | . | Microsoft Teams UI design inspirations | UI design kit | . | Microsoft Teams UI design components | UI design library | . | Designing Adaptive Cards | UI design library | . | Designing Teams meeting extensions | Meeting app design guidance | . ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Design-App-for-Microsoft-Teams/#design-an-app",
+    "relUrl": "/teams/Design-App-for-Microsoft-Teams/#design-an-app"
+  },"4": {
+    "doc": "Microsoft Teams",
+    "title": "Microsoft Teams",
+    "content": " ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Monetize-App-through-Microsoft-Commercial-Marketplace/",
+    "relUrl": "/teams/Monetize-App-through-Microsoft-Commercial-Marketplace/"
+  },"5": {
+    "doc": "Microsoft Teams",
+    "title": "Monetize App through Microsoft Commercial Marketplace",
+    "content": ". | [Monetize your Microsoft 365 add-in or app through Microsoft Commercial Marketplace - Microsoft AppSource | Microsoft Docs](https://docs.microsoft.com/en-us/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace) | . | . ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Monetize-App-through-Microsoft-Commercial-Marketplace/#monetize-app-through-microsoft-commercial-marketplace",
+    "relUrl": "/teams/Monetize-App-through-Microsoft-Commercial-Marketplace/#monetize-app-through-microsoft-commercial-marketplace"
+  },"6": {
+    "doc": "Microsoft Teams",
+    "title": "Microsoft Teams",
+    "content": " ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Publish-App-to-App-Source/",
+    "relUrl": "/teams/Publish-App-to-App-Source/"
+  },"7": {
+    "doc": "Microsoft Teams",
+    "title": "Publish App to App Source",
+    "content": ". | https://aka.ms/submit-app | Webinar on publishing best practices | . ",
+    "url": "http://localhost:4000/isv-success-program-resources/teams/Publish-App-to-App-Source/#publish-app-to-app-source",
+    "relUrl": "/teams/Publish-App-to-App-Source/#publish-app-to-app-source"
+  },"8": {
     "doc": "Commercial marketplace",
     "title": "Commercial marketplace",
     "content": "Virtual machine offers . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-a-virtual-machine-offer/",
     "relUrl": "/marketplace/create-or-maintain-a-virtual-machine-offer/"
-  },"3": {
+  },"9": {
     "doc": "Commercial marketplace",
     "title": "Video learning",
     "content": "▶️ Learn about virtual machine offers with video content from the –Mastering the Marketplace– learning library. ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-a-virtual-machine-offer/#video-learning",
     "relUrl": "/marketplace/create-or-maintain-a-virtual-machine-offer/#video-learning"
-  },"4": {
+  },"10": {
     "doc": "Commercial marketplace",
     "title": "Microsoft Docs",
     "content": ". | Technical guides: VM Offer overview | How to plan a virtual machine offer | How to create a virtual machine using an approved base image | How to create a virtual machine using your own image | How to create a virtual machine offer on Azure Marketplace | How to configure virtual machine offer properties | How to create plans for a virtual machine offer | How to add a preview audience for a virtual machine offer | Test a virtual machine image | How to generate a SAS URI for a VM image | Virtual machine SAS failure messages | Troubleshoot virtual machine certification | Common questions about VM in Azure Marketplace (VM Creation FAQ) | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-a-virtual-machine-offer/#microsoft-docs",
     "relUrl": "/marketplace/create-or-maintain-a-virtual-machine-offer/#microsoft-docs"
-  },"5": {
+  },"11": {
     "doc": "Commercial marketplace",
     "title": "Commercial marketplace",
     "content": "Azure Managed Application offers . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-azure-managed-application-offer/",
     "relUrl": "/marketplace/create-or-maintain-azure-managed-application-offer/"
-  },"6": {
+  },"12": {
     "doc": "Commercial marketplace",
     "title": "Videos and hands-on labs",
     "content": "▶️Learn about Azure Managed Application offers with video content and hands-on labs from the Mastering the Marketplace learning library. ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-azure-managed-application-offer/#videos-and-hands-on-labs",
     "relUrl": "/marketplace/create-or-maintain-azure-managed-application-offer/#videos-and-hands-on-labs"
-  },"7": {
+  },"13": {
     "doc": "Commercial marketplace",
     "title": "Microsoft docs",
     "content": ". | Reference to client libraries from Metering API DOCS | Plan Azure application offers | Plan a solution template for an Azure application offer | Plan a managed application for an Azure application offer | How to create an Azure application offer in the commercial marketplace | Configure a managed application plan | How to create plans for your Azure application offer | How to configure your Azure application offer properties | How to add technical details for your Azure application offer | How to add a preview audience for your Azure application offer | Configure a solution template plan | Azure partner customer usage attribution (CUA) | Technical guides: Solution templates &amp; Managed Applications | How to test and publish an Azure application offer | Managed application metered billing | Partner Center submission API to onboard Azure apps in Partner Center | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-azure-managed-application-offer/#microsoft-docs",
     "relUrl": "/marketplace/create-or-maintain-azure-managed-application-offer/#microsoft-docs"
-  },"8": {
+  },"14": {
     "doc": "Commercial marketplace",
     "title": "Sample code",
     "content": "Metered billing accelerator: a set of sample projects that show metered billing in multiple scenarios. ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-azure-managed-application-offer/#sample-code",
     "relUrl": "/marketplace/create-or-maintain-azure-managed-application-offer/#sample-code"
-  },"9": {
+  },"15": {
     "doc": "Commercial marketplace",
     "title": "Commercial marketplace",
     "content": "SaaS offers . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/"
-  },"10": {
+  },"16": {
     "doc": "Commercial marketplace",
     "title": "Videos and hands-on labs",
     "content": "▶️Learn about custom SaaS offers with video content and hands-on labs from the Mastering the Marketplace learning library. The SaaS Accelerator - A complete reference implementation of a SaaS offer you can use to jump start your SaaS solution into the Azure marketplace. Install a complete SaaS solution to the marketplace in 20 minutes or less. ▶️Learn about the SaaS Accelerator with video content and hands-on labs from the Mastering the Marketplace learning library. ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/#videos-and-hands-on-labs",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/#videos-and-hands-on-labs"
-  },"11": {
+  },"17": {
     "doc": "Commercial marketplace",
     "title": "Client libraries",
     "content": "The following client libraries enable developers to more quickly onboard their custom SaaS offers to the commercial marketplace. | Client library for .NET : Repository : NuGet | Client library for Java : Repository | Client library for Python : Repository : PyPi | Client library for Node.js : Repository : NPM for SaaS : NPM for Metering | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/#client-libraries",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/#client-libraries"
-  },"12": {
+  },"18": {
     "doc": "Commercial marketplace",
     "title": "Microsoft Docs",
     "content": ". | Plan a SaaS offer | How to create a SaaS offer in the commercial marketplace | How to add a preview audience for your SaaS offer | How to add technical details for your SaaS offer | How to create plans for your SaaS offer | How to test and publish a SaaS offer to the commercial marketplace | Azure AD and transactable SaaS offers in the commercial marketplace | Client libraries in common Azure languages (.NET, Java, Node, Python, Go) | Reference to client libraries from SaaS fulfillment API DOCS | Reference to client libraries from Metering API DOCS | Build the landing page for your transactable SaaS offer in the commercial marketplace | Build the landing page for your free or trial SaaS offer in the commercial marketplace | Metered billing for SaaS using the commercial marketplace metering service | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/#microsoft-docs",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/#microsoft-docs"
-  },"13": {
+  },"19": {
     "doc": "Commercial marketplace",
     "title": "Microsoft Learn courses",
     "content": "Create a SaaS offer for the commercial marketplace . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/create-or-maintain-saas-offer/#microsoft-learn-courses",
     "relUrl": "/marketplace/create-or-maintain-saas-offer/#microsoft-learn-courses"
-  },"14": {
-    "doc": "Microsoft Teams",
-    "title": "Microsoft Teams",
-    "content": " ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/design-app-for-microsoft-teams/",
-    "relUrl": "/Teams/design-app-for-microsoft-teams/"
-  },"15": {
-    "doc": "Microsoft Teams",
-    "title": "Design an App",
-    "content": "| Topic | Link | . | Design principles | Design documentation | . | Design guidelines | Understand your use cases | . | Designing for web and desktop | Web and desktop design guidance | . | Designing for mobile | Mobile design guidance | . | Microsoft Teams UI design inspirations | UI design kit | . | Microsoft Teams UI design components | UI design library | . | Designing Adaptive Cards | UI design library | . | Designing Teams meeting extensions | Meeting app design guidance | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/design-app-for-microsoft-teams/#design-an-app",
-    "relUrl": "/Teams/design-app-for-microsoft-teams/#design-an-app"
-  },"16": {
+  },"20": {
     "doc": "Azure",
     "title": "Azure",
     "content": " ",
     "url": "http://localhost:4000/isv-success-program-resources/azure/",
     "relUrl": "/azure/"
-  },"17": {
+  },"21": {
     "doc": "Azure",
     "title": "What are you trying to accomplish?",
     "content": ". | Learn from general Azure resources | Understand multi-tenancy . | Build my new solution on Azure | Migrate/Replicate my solution to Azure from another cloud | Migrate my solution to Azure from on-premises | . | What outcome(s) are you focused on for your solution? . | Scale my solution to support more customers | Improve my solution’s security &amp; compliance (WAF-Security) | Increase my solution’s reliability and performance (WAF-Performnace Efficiency &amp; Reliability) | Streamline my deployments on Azure (WAF-Operational excellence) | Optimize my cloud spend on Azure (WAF-Cost Optimization) | Add capabilities to my solution on Azure . | Manage identities on Azure | Operational data store for my solution | AI/Machine Learning for my solution | Data insights for my solution | IOT for my solution | . | . | . ",
     "url": "http://localhost:4000/isv-success-program-resources/azure/#what-are-you-trying-to-accomplish",
     "relUrl": "/azure/#what-are-you-trying-to-accomplish"
-  },"18": {
+  },"22": {
     "doc": "Azure",
     "title": "Learn from general Azure resources",
     "content": "Below are some key resources for Azure: . | Resource | . | Azure Architecture Center | . | Azure Charts | . | Azure Code Samples | . | Azure Microsoft Learn | . | Azure Product Documentation | . | Azure Support | . | Azure Tech Community | . | Azure Well-Architected Framework (WAF) | . | Channel 9 Azure Friday | . | Cloud Adoption Framework (CAF) for Azure | . | Cloud Design Patterns | . | Directory of Azure Services | . | Microsoft Azure YouTube Channel | . | Microsoft Certifications | . ",
     "url": "http://localhost:4000/isv-success-program-resources/azure/#learn-from-general-azure-resources",
     "relUrl": "/azure/#learn-from-general-azure-resources"
-  },"19": {
+  },"23": {
     "doc": "Azure",
     "title": "Understand multi-tenancy",
     "content": "| Topic | Link | . | Shared Capacity Solutions | Get started with autoscale in Azure - Azure Monitor | . |   | Subscription decision guide - Cloud Adoption Framework | . | Dedicated Capacity Solutions | Infrastructure as Code | . |   | Repeatable Infrastructure | . |   | Deploy and manage resources in Azure by using Bicep | . |   | Cross-tenant management experiences - Azure Lighthouse | . |   | Best practices for cluster isolation in Azure Kubernetes Service (AKS) | . |   | Deep dive: Mission-critical multi-tenant apps with Cosmos DB multi-master - BRK4005 | . |   | Building multi-tenant applications with Azure Database for PostgreSQL Hyperscale (Citus) | . |   | Multi-tenant SaaS database tenancy patterns | . | Hybrid Capacity Solutions |   | . |   | AKS Infrastructure Multitenancy for ISVs | . |   | Azure Cosmos DB and multi-tenant systems | . |   | Learning from MYOB: Design patterns for SaaS applications on Azure SQL Database - BRK3120 | . |   | Manage multi-tenancy with Power BI embedded analytics | . |   | Multitenant SaaS on Azure | . |   | Running 1M databases on Azure SQL for a large SaaS provider: Microsoft Dynamics 365 and Power Platform. | . |   | Tenancy in Azure Active Directory | . |   | The Wingtip Tickets SaaS application | . |   | Sharding pattern | . |   | Geode Pattern | . Build my new solution on Azure . | Topic | Link | . | Validate my architecture | Assessments | . | Deploy Proof of Concept on Azure | What is an Azure landing zone? - Cloud Adoption Framework | . Migrate/Replicate my solution to Azure from another cloud . | Topic | Link | . | Understand the equivalent services on Azure (AWS, GCP) | Azure for AWS professionals - Azure Architecture Center | . |   | Azure for GCP professionals - Azure Architecture Center | . | Understand how to leverage Kubernetes on Azure | Kubernetes on Azure | . Migrate my solution to Azure from on-premises . | Topic | Link | . | Lift and Shift my solution to Azure | Choosing Azure compute platforms for container-based applications | . |   | Java on Azure | . | Modernize my solution as I migrate to Azure | Modernize Existing .NET Applications With Azure Cloud and Windows Containers | . |   | Modernize Windows Server Apps on Microsoft Azure using Containers with Windows Admin Center and AKS! | . | Data Migration | Microsoft Database Migration Guide | . |   | Copy data from a SQL Server database to Azure Blob storage by using the Copy Data tool | . | Publish a traditional Windows desktop application to customers in a hosted environment | Azure Virtual Desktop documentation | . | Understand Azure Arc for hybrid management | Manage hybrid infrastructure with Azure Arc | . |   | Choose an Azure compute service for your application | . |   | Select an Azure data store for your application | . |   | .NET Application Migration - Reduce spend, increase efficiency, and improve agility | . ",
     "url": "http://localhost:4000/isv-success-program-resources/azure/#understand-multi-tenancy",
     "relUrl": "/azure/#understand-multi-tenancy"
-  },"20": {
+  },"24": {
     "doc": "Azure",
     "title": "What outcome(s) are you focused on for your solution?",
     "content": "Scale my solution to support more customers . | Topic | Link | . | Scale VM based solution | Azure virtual machine scale sets overview - Azure Virtual Machine Scale Sets | . |   | Build a scalable application with virtual machine scale sets - Learn | . | Modernize VM solution to microservices, containers, Kubernetes | Modernize Existing .NET Applications With Azure Cloud and Windows Containers | . |   | Modernize Windows Server Apps on Microsoft Azure using Containers with Windows Admin Center and AKS! | . |   | Choosing Azure compute platforms for container-based applications | . | Move my solution to a SaaS model | Multitenant SaaS on Azure | . |   | Multi-tenant SaaS patterns - Azure SQL Database | . |   | About service meshes | . |   | Service Mesh Comparison | . | Scale my databases | Scale single database resources - Azure SQL Database | . |   | What is the Hyperscale service tier? - Azure SQL Database | . | Scale my solution to additional geos | Choose the Right Azure Region for You | . |   | Azure regions decision guide - Cloud Adoption Framework | . |   | Data Residency in Azure | . | Partitioning (across subscriptions, etc.) | Partition around limits | . |   | Azure Subscription Limits | . Improve my solution’s security &amp; compliance (WAF-Security) . | Topic | Sub-Topic | Link | . | Security Best Practices |   | Azure Security Center documentation | . | Compliance/Certification Requirements |   | Compliance in the trusted cloud | . | Data Residency/Sovereignty |   | Choose the Right Azure Region for You | . |   |   | Azure regions decision guide - Cloud Adoption Framework | . |   |   | Data Residency in Azure | . | Govern my Azure Environment(s) | Azure Blueprints | Overview of Azure Blueprints - Azure Blueprints | . |   | Azure Policy | What is Azure Policy? | . |   | Management Groups | Organize your resources with management groups - Azure Governance - Azure governance | . |   | Azure Role-Based Access Control | What is Azure role-based access control (Azure RBAC)? | . | SIEM/SOAR | Azure Sentinel | Cloud-native security operations with Azure Sentinel - Learn | . |   |   | Azure Sentinel – Cloud-native SIEM Solution | . | Network (Layer 4) Security | Network Security Groups | Create, change, or delete an Azure network security group | . |   | First/third-party solutions (NVAs, etc.) | About Network Virtual Appliance in an Azure Virtual WAN hub(Preview) | . |   |   | Deploy highly available NVAs | . |   |   | Best practices to consider before deploying a network virtual appliance | . |   | Hybrid (VPN, ExpressRoute, etc.) | Azure ExpressRoute Overview: Connect over a private connection | . |   |   | Application security groups | . |   |   | Understanding just-in-time (JIT) VM access | . |   |   | What is VPN Gateway? | . | Application (Layer 7) Security | Identity as the new security perimeter | Azure identity &amp; access security best practices | . |   | SSL, TLS, certificate management | Add and manage TLS/SSL certificates - Azure App Service | . |   | OWASP attacks, WAF, etc. | Web Application Firewall documentation | . |   |   | What is Azure Web Application Firewall on Azure Application Gateway? - Azure Web Application Firewall | . |   |   | Azure Web Application Firewall on Azure Front Door | . | Shared responsibility |   | Shared responsibility in the cloud - Microsoft Azure | . |   |   | Describe the shared responsibility model - Learn | . Increase my solution’s reliability and performance (WAF-Performnace Efficiency &amp; Reliability) . | Topic | Sub-Topic | Link | . | VM reliability and performance |   | Building solutions for high availability using Availability Zones - High Availability | . | Database reliability and performance |   | Data Management for Reliability - Azure Architecture Center | . | Container reliability and performance |   | Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center | . | SLA, RTO, RPO metric-driven design, including “number of nines” |   | Business Metrics - Azure Architecture Center | . |   |   | Azure SLA Board (azurecharts.com) | . |   |   | Choose the right Azure services by examining SLAs and service lifecycle | . | Business continuity and disaster recovery (BCDR) |   | Backup and disaster recovery for Azure applications | . |   |   | Architecting Azure applications for resiliency and availability | . |   |   | Business continuity and disaster recovery(BCDR): Azure Paired Regions | . |   |   | Build high availability into your BCDR strategy | . |   |   | Baseline architecture for an Azure Kubernetes Service (AKS) cluster - Azure Architecture Center | . | Mean Time To Recover (MTTR) v. Mean Time Between Failures (MTBF) |   | Business Metrics - Azure Architecture Center | . | Decoupling through message brokering |   | Architect message brokering and serverless applications in Azure - Learn | . |   |   | Connect your services together - Learn | . |   |   | Asynchronous messaging options in Azure | . |   |   | Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus | . |   | Azure Queue Storage | Introduction to Azure Queue Storage - Azure Storage | . |   | Azure Service Bus | Azure Service Bus messaging overview - Azure Service Bus | . |   | Azure Event Hub | Azure Event Hubs documentation | . |   | Azure Event Grid | Azure Event Grid documentation | . |   | Azure Redis | Azure Cache for Redis Documentation | . | Designing for availability and reliability |   | Reliability patterns - Cloud Design Patterns | . |   |   | Availability sets overview | . Streamline my deployments on Azure (WAF-Operational excellence) . | Topic | Sub-Topic | Link | . | Agile Planning |   | What is Agile? - Azure DevOps | . |   |   | What is Agile Development? - Azure DevOps | . |   | Azure Boards | Understand what you get with Azure Boards - Azure Boards | . |   | GitHub Project Management | Features · Project management · GitHub | . | Source Management (Git) |   | What is Git? - Azure DevOps | . |   | Azure Repos | Azure Repos Documentation | . |   | GitHub | Using Git - GitHub Docs | . |   | TFVC to Git | Migrate from TFVC to Git - Azure DevOps | . |   |   | Git and TFVC version control - Azure Repos | . | CI/CD |   | Design a CI/CD pipeline using Azure DevOps - Azure Example Scenarios | . |   |   | Release Engineering Continuous integration - Azure Architecture Center | . |   | Azure Pipelines | Azure Pipelines documentation | . |   |   | Learn how to build and deploy your apps - Azure Pipelines | . |   |   | AZ-400: Define and implement continuous integration - Learn | . |   |   | Automate your deployments with Azure DevOps learning path - Learn | . |   | Jenkins, CircleCI, etc. (OSS) | Jenkins on Azure documentation - Jenkins | . |   | Environment management | Progressively expose your releases using deployment rings - Azure DevOps | . |   |   | Set up staging environments - Azure App Service | . |   | Configuration management | What is Azure App Configuration? | . |   |   | Managing Configuration and App Settings for Multiple Environments in Your CD Pipeline | . | Infrastructure as Code (IaC) |   | Infrastructure as code | . |   |   | Repeatable Infrastructure | . |   |   | Deploy and manage resources in Azure by using Bicep | . |   |   | Automate your deployments with Azure DevOps learning path - Learn | . |   | ARM Templates, Bicep, etc. | ARM template documentation | . |   |   | Deploy and manage resources in Azure by using ARM templates - Learn | . |   | Terraform | Using Terraform with Azure | . |   |   | Automate cloud resource management - Learn | . | Test Automation |   | Run quality tests in your build pipeline by using Azure Pipelines - Learn | . |   |   | AZ-400: Define and implement continuous integration - Learn | . |   |   | Testing your application and Azure environment - Azure Architecture Center | . |   | Load testing (JMeter, etc.) | Load Testing - Azure Architecture Center | . |   |   | JMeter implementation reference for load testing pipeline solution - Azure Architecture Center | . |   | End-to-end testing | Testing your application and Azure environment - Azure Architecture Center | . |   | Unit testing | Run quality tests in your build pipeline by using Azure Pipelines | . |   | Azure Test Plans | Azure Test Plans documentation | . |   | GitHub Actions | Features • GitHub Actions · GitHub | . | Package Management | Azure Artifacts | Azure Artifacts documentation | . |   | GitHub Packages | GitHub Packages: Your packages, at home with their code · GitHub | . | Monitoring and logging |   | ISV Specific Monitoring and Logging Guidance | . |   | Azure Monitor | Azure Monitor overview - Azure Monitor | . |   | Grafana, Prometheus, etc. (OSS) | Monitor Azure services and applications using Grafana - Azure Monitor | . |   |   | Documentation - Grafana Labs | . |   |   | Configure Container insights Prometheus Integration - Azure Monitor | . |   |   | Overview - Prometheus | . |   | Distributed tracing | What is Distributed Tracing? | . |   | Intelligent alerting | Overview of alerting and notification monitoring in Azure - Azure Monitor | . | Product Release Strategy | Rolling deployment | Tutorial - Configure rolling deployments for Azure Linux virtual machines - Azure Virtual Machines | . |   | Canary | Set up staging environments - Azure App Service | . |   |   | Canary deployment strategy for Kubernetes deployments - Azure Pipelines | . |   | Blue-Green | Blue-Green deployments using Azure Traffic Manager | . |   |   | Azure Slot Deployment with Blue-Green Deployment Model | . |   |   | Continuous Kubernetes blue-green deployments on Azure using Ngix, AppGateway or Traffic Manager | . |   | Optional/Custom/Delayed Deployments | Progressively expose your releases using deployment rings - Azure DevOps | . Optimize my cloud spend on Azure (WAF-Cost Optimization) . | Topic | Sub-Topic | Link | . | Adopt Automatic Event-driven Autoscaling | KEDA, Horizontal Pod Autoscaler (HPA) | Tutorial: Scale applications in Azure Kubernetes Services (AKS) | . |   | Azure Virtual Machine Scale Sets | What are virutal machine scale sets? | . |   | Azure App Services Scale Up Automations | Autoscaling and App Service Environment v1 | . |   | Azure SQL Server Elastic Pool | Scale elastic pool resources in Azure SQL Database | . |   | Azure SQL Database Serverless | Azure SQL Database serverless | . | Monitoring and analytics |   | Azure Monitor documentation - Azure Monitor | . |   |   | Monitoring and diagnostics guidance - Best practices for cloud applications | . |   |   | Monitoring for performance efficiency - Azure Architecture Center | . |   | Azure tagging | Resource naming and tagging decision guide | . |   | Azure Resource Group and Subscription | Organize your Azure resources effectively - Cloud Adoption Framework | . |   | Azure Monitor Alerts | Overview of alerts in Microsoft Azure | . | Data Persistence Optimization | Scale out by data sharding | Scaling out with Azure SQL Database | . |   | Aggregate data reads |   | . |   | Decrease reads by proactive caching | Cache-Aside pattern - Cloud Design Patterns | . | Cloud Cost Management |   | Overview of Azure Cost Management + Billing | . |   |   | Cost Optimization | . |   | Across clouds | Set up AWS integration with Azure Cost Management | . |   | Chargebacks, etc. | Tag resources, resource groups, and subscriptions for logical organization - Azure Resource Manager | . |   | Budget, alerts, etc. | Monitor usage and spending with cost alerts | . |   |   | Tutorial - Create and manage Azure budgets | . | Azure Advisor |   | Introduction to Azure Advisor - Azure Advisor | . Add capabilities to my solution on Azure . Manage identities on Azure . | Topic | Sub-Topic | Link | . | Federated v. App-Owned Identities |   | Federated Identity pattern - Cloud Design Patterns | . |   |   | Identity management for multitenant applications - Azure Architecture Center | . |   |   | What is federation with Azure AD? | . | Standards(OAuth 2.0, OIDC, etc.) |   | OAuth 2.0 and OpenID Connect protocols on the Microsoft identity platform - Microsoft identity platform | . |   |   | Microsoft identity platform and OpenID Connect protocol - Microsoft identity platform | . |   |   | How the Microsoft identity platform uses the SAML protocol | . |   |   | Secure your application by using OpenID Connect and Azure AD - Learn | . | Reaching enterprise customers through AAD integration |   | Microsoft 365 identity models and Azure Active Directory - Microsoft 365 Enterprise | . |   | AD FS | AD FS 2016 Overview | . |   |   | Tutorial: Setting up PHS as backup for AD FS in Azure AD Connect | . |   | Azure Active Directory Pass-through Authentication | Azure AD Connect: Pass-through Authentication | . |   | Azure Active Directory Password Hash Synchronization | What is password hash synchronization with Azure AD? | . |   | Azure AD B2B | What is B2B collaboration in Azure Active Directory? | . |   | Azure AD B2C | What is Azure Active Directory B2C? | . | “Bring your own identities” and SSO |   | What is Azure single sign-on (SSO)? | . |   |   | Azure Active Directory Single Sign-on (SSO) | . |   | On-prem identities | Integrate on-premises AD domains with Azure AD - Azure Reference Architectures | . |   | Azure AD B2B | What is B2B collaboration in Azure Active Directory? | . |   | Azure AD B2C | What is Azure Active Directory B2C? | . | Identity protection |   | What is Azure Active Directory Identity Protection? | . |   |   | Securing Azure environments with Azure Active Directory | . | Authentication and authorization |   | Authentication vs. authorization - Microsoft identity platform | . | Multi-factor authentication (MFA) |   | Azure AD Multi-Factor Authentication overview | . |   |   | Secure Azure Active Directory users with Multi-Factor Authentication - Learn | . Operational data store for my solution . Azure Databases - Types of Databases on Azure . | Topic | Sub-Topic | Link | . | Relational database |   | Relational vs. NoSQL data | . |   |   | Work with relational data in Azure learning path - Learn | . | Non-Relational database |   | Relational vs. NoSQL data | . |   |   | NoSQL Database - What is NoSQL? | . |   |   | Azure Cosmos DB | . |   |   | Welcome to Azure Cosmos DB | . | Data tenancy |   | Multi-tenant SaaS database tenancy patterns | . |   |   | Tenancy model for SaaS applications - Azure Example Scenarios | . | Caching |   | Azure Cache for Redis | . |   |   | Work with mutable and partial data in Azure Cache for Redis - Learn | . |   |   | Caching guidance - Best practices for cloud applications | . | Consistency |   | Consistency levels in Azure Cosmos DB | . AI/Machine Learning for my solution . | Topic | Sub-Topic | Link | . | Build my ML models on Azure |   | What is Azure Machine Learning workspace? | . |   | Custom ML Models | Configure and submit training runs | . |   | Templated Model (Many Model) | Many Models Solution Accelerator | . |   | Chained ML Models |   | . |   | Cognitive Services | Azure Cognitive Services | . | Understand Azure AI/ML services |   | Azure AI Platform | . | Leverage out of box AI/ML services | Cognitive Services | Azure Cognitive Services documentation | . |   | Azure Cognitive Search | Azure Cognitive Search documentation | . |   | Azure Machine Learning | Azure Machine Learning documentation | . |   | Azure Databricks | Azure Databricks documentation | . |   | Azure Bot Services | Azure Bot Service | . | Create Collaborative Environment for Scientists | Azure Machine Learning Studio | What is Azure Machine Learning Studio? | . |   | Azure Databricks | What is Azure Databricks? | . | Operationalize my ML Models | Batch Inference | Create and run machine learning pipelines with Azure Machine Learning SDK | . |   | Realtime Inference | Deploy your existing model with Azure Machine Learning | . |   | Edge Inference | Tutorial: Deploy Azure Machine Learning as an IoT Edge module (preview) | . |   | Distributable Packages | Get started with Python packages in Azure Artifacts | . | ML Ops | Azure ML Pipelines | Create and run machine learning pipelines with Azure Machine Learning SDK | . |   | Azure DevOps | Azure DevOps documentation | . |   | Team Contracts | MLOps: Model management, deployment, and monitoring with Azure Machine Learning | . Data insights for my solution . | Topic | Sub-Topic | Link | . | Implementing Warehousing |   | Data warehousing | . |   | Azure Synapse Analytics | Azure Synapse Analytics | . |   | DataBricks Delta Lake | Delta Lake and Delta Engine guide | . |   | Designing Data Pipelines | What is Azure Data Factory? | . | Build Data Lake |   | Data lakes | . |   | DataBricks ETL | Tutorial: Extract, transform, and local data by using Azure Databricks | . |   | Implementing Azure Data Lake | Best practices for using Azure Data Lake Storage Gen2 | . |   | Integrating Azure Synapse Analytics with Azure Data Lake | Load data from Azure Data Lake Storage into dedicated SQL pools in Azure Synapse Analytics | . | Reporting and Advanced Analytics |   | Introduction to Power BI - Learn | . |   |   | Choosing a data analytics and reporting technology - Azure Architecture Center | . |   | Implementing Advanced Analytics with Power BI | Perform analytics in PowerBI | . |   |   | Introduction to PowerBI - Learn | . |   | Build Custom Analytics with Power BI Embedded | Tutorial: Embed Power BI content using a sample embed for your customers application | . | Implementing Big Data Solutions |   | Big data architecture | . | Ingesting Real-Time Data |   | Real time processing | . IOT for my solution . | Topic | Sub-Topic | Link | . | Provision &amp; manage devices | Device Provisioning Service | Azure IoT Hub Device Provisioning Service (DPS) Documentation | . |   |   | Automatically provision IoT devices securely and at scale with the Device Provisioning Service - Learn | . |   | Mutliple IoT Hubs | Tutorial - Provision devices across load balanced hubs using Azure IoT Hub Device Provisioning Service | . |   |   | How to provision devices for multitenancy in Azure IoT Hub Device Provisioning Service | . |   | Plug and Play | What is IoT Plug and Play? | . | Lambda architecture |   | Introduction to implementing lambda architecture for IoT solutions - Learn | . |   | Stream Analytics | Welcome to Azure Stream Analytics | . |   | Azure Data Explorer for Lambda | Ingest data from IoT Hub into Azure Data Explorer | . |   | Azure Functions | Azure IoT Hub trigger for Azure Functions | . | Device data ingest, storage &amp; management (time series) | Azure Data Explorer | Ingest data from IoT Hub into Azure Data Explorer | . |   | ADLS Gen 2 | Introduction to Azure Data Lake Storage Gen2 | . |   | Azure Stream Analytics | Introduction to Azure Stream Analytics | . |   |   | Implement a Data Streaming Solution with Azure Streaming Analytics - Learn | . |   | IoT Hub | Azure IoT Hub Documentation | . | Device protocols &amp; connectivity (industrial, low frequency, cell, third party integrator) | LoRaWAN | How an IoT Edge device can be used aas a gateway | . |   | Telecom |   | . |   | Express Route | What is Azure ExpressRoute? | . |   | IIoT &amp; EFlow |   | . |   | AMQP, MQTT, HTTPS | Reference - choose a communication protocol | . |   | Other/Translation | How an IoT Edge device can be used as a gateway | . | Secure my devices | DPS Flow | How to provision devices using symmetric key enrollment groups | . |   | TPM | Create and provision an IoT Edge device with a TPM on Linux | . |   | Sphere | Azure Sphere Documentation | . |   | Defender for IoT | Azure Defender for IoT documentation | . | Constrained Devices | Microcontroller | Azure IoT Clients | . |   | Small Footprint | Develop for constrained devices using Azure IoT C SDK | . | Device Insights | Power BI | Power BI documentation | . |   | Digital Twins | Azure Digital Twins Documentation | . |   | Kibana on ADX | Visualize data from Azure Data Explorer in Kibana with the K2Bridge open-source connector | . ",
     "url": "http://localhost:4000/isv-success-program-resources/azure/#what-outcomes-are-you-focused-on-for-your-solution",
     "relUrl": "/azure/#what-outcomes-are-you-focused-on-for-your-solution"
-  },"21": {
+  },"25": {
     "doc": "Marketplace",
     "title": "Commercial marketplace",
     "content": " ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/#commercial-marketplace",
     "relUrl": "/marketplace/#commercial-marketplace"
-  },"22": {
+  },"26": {
     "doc": "Marketplace",
     "title": "What are you trying to accomplish?",
     "content": ". | Selecting the right transactable offer type | Creating or maintaining my SaaS offer | Creating or maintaining my Azure Managed Application offer | Creating or maintaining my virtual machine offer | . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/#what-are-you-trying-to-accomplish",
     "relUrl": "/marketplace/#what-are-you-trying-to-accomplish"
-  },"23": {
+  },"27": {
     "doc": "Marketplace",
     "title": "Marketplace",
     "content": " ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/",
     "relUrl": "/marketplace/"
-  },"24": {
+  },"28": {
     "doc": "Microsoft Teams",
     "title": "Microsoft Teams",
     "content": " ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/",
-    "relUrl": "/Teams/"
-  },"25": {
+    "url": "http://localhost:4000/isv-success-program-resources/teams/",
+    "relUrl": "/teams/"
+  },"29": {
     "doc": "Microsoft Teams",
     "title": "What are you trying to accomplish?",
     "content": ". | Design App for Microsoft Teams | Build App for Microsoft Teams | Publish App to App Source | Sell App through Microsoft Commercial Marketplace | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/#what-are-you-trying-to-accomplish",
-    "relUrl": "/Teams/#what-are-you-trying-to-accomplish"
-  },"26": {
+    "url": "http://localhost:4000/isv-success-program-resources/teams/#what-are-you-trying-to-accomplish",
+    "relUrl": "/teams/#what-are-you-trying-to-accomplish"
+  },"30": {
     "doc": "Microsoft Teams",
     "title": "General Microsoft Teams Platform Resources",
     "content": "Below are some key resources for Microsoft Teams platform. | Resource | . | Teams Developer Documentation | . | Microsoft Graph Developer Center | . | Virtual instructor led training - Building Apps with Teams | . | Learn - Develop apps for Microsoft Teams | . | Microsoft Teams apps Tutorials | . | Teams Developer Tech Community | . | Microsoft Teams UserVoice | . | Microsoft Teams Devlopment Samples | . | Microsoft Teams Developer Blogs | . | Microsoft Teams Support | . | Microsoft Certifications | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/#general-microsoft-teams-platform-resources",
-    "relUrl": "/Teams/#general-microsoft-teams-platform-resources"
-  },"27": {
+    "url": "http://localhost:4000/isv-success-program-resources/teams/#general-microsoft-teams-platform-resources",
+    "relUrl": "/teams/#general-microsoft-teams-platform-resources"
+  },"31": {
     "doc": "Home",
     "title": "ISV Success Program Resource Center",
     "content": "Whether you are looking to move your application to the cloud, help your cloud native application perform at its best, or even explore selling with Microsoft, we are here to help. ",
     "url": "http://localhost:4000/isv-success-program-resources/#isv-success-program-resource-center",
     "relUrl": "/#isv-success-program-resource-center"
-  },"28": {
+  },"32": {
     "doc": "Home",
     "title": "What are you trying to accomplish?",
-    "content": "Build my solution on Azure . Publish my application to the commercial marketplace . Build or integrate my solution with Microsoft Teams . ",
+    "content": "Build my solution on Azure . Publish my application to the commercial marketplace . Build or integrate my solution with Microsoft Teams . Visit the ISV Hub . ",
     "url": "http://localhost:4000/isv-success-program-resources/#what-are-you-trying-to-accomplish",
     "relUrl": "/#what-are-you-trying-to-accomplish"
-  },"29": {
+  },"33": {
+    "doc": "Home",
+    "title": "Attend an event",
+    "content": "| Date | Event | Description and Link | . | May 3, 2022 | Microsoft SaaS Day (Western Europe) | Join Microsoft SaaS Day – a full day conference addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones. Learn more and register. | . | May 12, 2022 | GitHub Intro &amp; Overview | New to GitHub? Planned topics of this 101 webinar include roadmap &amp; value prop including modernizing DevOps, developer collaboration, automation, integrations, secure development, and other cool stuff! [Learn more and register - COMING SOON]. | . | May 17, 2022 | Mastering VM Offers for the Azure Marketplace | This interactive workshop fully covers building Virtual Machine Offers for the Azure marketplace. Leave this immersive workshop with the knowledge and skills to implement a fully functional VM offer in no time. Come for plenty of demos and hands-on labs. Learn more and register. | . ",
+    "url": "http://localhost:4000/isv-success-program-resources/#attend-an-event",
+    "relUrl": "/#attend-an-event"
+  },"34": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/isv-success-program-resources/",
     "relUrl": "/"
-  },"30": {
-    "doc": "Microsoft Teams",
-    "title": "Microsoft Teams",
-    "content": " ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/monetize-app-through-microsoft-commercial-marketplace/",
-    "relUrl": "/Teams/monetize-app-through-microsoft-commercial-marketplace/"
-  },"31": {
-    "doc": "Microsoft Teams",
-    "title": "Monetize App through Microsoft Commercial Marketplace",
-    "content": ". | [Monetize your Microsoft 365 add-in or app through Microsoft Commercial Marketplace - Microsoft AppSource | Microsoft Docs](https://docs.microsoft.com/en-us/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace) | . | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/monetize-app-through-microsoft-commercial-marketplace/#monetize-app-through-microsoft-commercial-marketplace",
-    "relUrl": "/Teams/monetize-app-through-microsoft-commercial-marketplace/#monetize-app-through-microsoft-commercial-marketplace"
-  },"32": {
+  },"35": {
     "doc": "Commercial marketplace",
     "title": "Commercial marketplace",
     "content": " ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/offer-type-selection/",
     "relUrl": "/marketplace/offer-type-selection/"
-  },"33": {
+  },"36": {
     "doc": "Commercial marketplace",
     "title": "Get help selecting the right transactable offer type",
     "content": "There are three transactable offer types in the Azure Marketplace. | Virtual Machines offers | SaaS offers | Azure Managed Application offers | . Microsoft Docs . Publishing guide by offer type . Transact overview helps you understand some of the differences between transactable offer types. Virtual Machine offers . Virtual Machine offers allow publishers to install their software on a virtual machine. | Runs in the customer’s tenant and subscription | Pricing is based on usage of the product | Does not support metered billing | . Learn more about Virtual Machine offers here . SaaS offers . SaaS offers allow for software that is delivered as SaaS to be transacted on the Azure Marketplace. | Ideally, a SaaS offer integrates with a multi-tenant application, but this is not required. | A SaaS offer runs in the publisher’s tenant. | . Learn more about SaaS offers here . Azure Managed Application offers . | Runs in the customer’s tenant | Enables the publisher to manage the resources in the customer’s tenant | Deploys via an ARM template | . Learn more about Managed Application offers here . ",
     "url": "http://localhost:4000/isv-success-program-resources/marketplace/offer-type-selection/#get-help-selecting-the-right-transactable-offer-type",
     "relUrl": "/marketplace/offer-type-selection/#get-help-selecting-the-right-transactable-offer-type"
-  },"34": {
-    "doc": "Microsoft Teams",
-    "title": "Microsoft Teams",
-    "content": " ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/publish-app-to-app-source/",
-    "relUrl": "/Teams/publish-app-to-app-source/"
-  },"35": {
-    "doc": "Microsoft Teams",
-    "title": "Publish App to App Source",
-    "content": ". | https://aka.ms/submit-app | Webinar on publishing best practices | . ",
-    "url": "http://localhost:4000/isv-success-program-resources/Teams/publish-app-to-app-source/#publish-app-to-app-source",
-    "relUrl": "/Teams/publish-app-to-app-source/#publish-app-to-app-source"
   }
 }

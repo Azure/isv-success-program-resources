@@ -36,3 +36,6 @@ Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------
 February 24, 2022 | ISV Webinar Series: Meet the New Benefits Program for Independent Software Vendors | Microsoft is introducing the private preview of a new benefits program for independent software vendors (ISVs) using the Microsoft Cloud. Learn about: The benefits of building and publishing apps on the Microsoft Cloud, how to use the Commercial Marketplace to grow your business, new technical and business benefits to accelerate your ability to build, deploy, and publish applications, such as cloud credits and one-on-one application consults, and how to qualify. | [Register to watch on-demand](https://info.microsoft.com/ww-ondemand-meet-the-new-benefits-program-for-independent-software-vendors.html).
 
+### Additional Resources
+
+[Marketplace Office Hours - Webinars and Workshops](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners).

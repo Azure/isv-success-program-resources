@@ -26,9 +26,9 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 Date & Registration | Event & Timezone | Description of Event
 ------------ | ------------- | -------------
-May 3, 2022 [Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html). | Microsoft SaaS Day (Western Europe) | Join Microsoft SaaS Day – **a full-day conference** addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones.
-May 17, 2022 [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/58839?Source=OFT). | Mastering VM Offers for the Azure Marketplace | This interactive **workshop** fully covers building Virtual Machine Offers for the Azure marketplace. Leave this immersive workshop with the knowledge and skills to implement a fully functional VM offer in no time. Come for plenty of demos and hands-on labs.
-May 26, 2022 [Learn more and register - **COMING SOON**]. | GitHub Intro & Overview | New to GitHub? Planned topics of this 101 **webinar** include roadmap & value prop including modernizing DevOps, developer collaboration, automation, integrations, secure development, and other cool stuff!
+May 3, 2022 [Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html). | Microsoft SaaS Day (*Western Europe*) | Join Microsoft SaaS Day – **a full-day conference** addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones.
+May 17, 2022 [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/58839?Source=OFT). | Mastering VM Offers for the Azure Marketplace (*United States*) | This interactive **workshop** fully covers building Virtual Machine Offers for the Azure marketplace. Leave this immersive workshop with the knowledge and skills to implement a fully functional VM offer in no time. Come for plenty of demos and hands-on labs.
+May 26, 2022 [Learn more and register - **COMING SOON**]. | GitHub Intro & Overview (*United States*) | New to GitHub? Planned topics of this 101 **webinar** include roadmap & value prop including modernizing DevOps, developer collaboration, automation, integrations, secure development, and other cool stuff!
 
 ### Past Events and On-Demand Recordings
 

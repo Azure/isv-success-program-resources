@@ -21,6 +21,7 @@ Whether you are looking to move your application to the cloud, help your cloud n
 [Visit the ISV Hub](https://www.microsoft.com/isv)
 
 ## Attend an event
+### Upcoming Events
 
 
 Date | Event | Description and Link

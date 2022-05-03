@@ -24,7 +24,7 @@ Whether you are looking to move your application to the cloud, help your cloud n
 ### Upcoming Events
 
 
-Date & Registration | Event & Time-Zone Target | Description of Event
+Date & Registration | Event & Timezone | Description of Event
 ------------ | ------------- | -------------
 May 3, 2022 [Learn more and register](https://info.microsoft.com/WE-ISVRECRUIT-CATALOG-FY22-03Mar-21-Microsoft-SaaS-Day-Business-Track-SRDEM107769_Catalog-Display-Page.html). | Microsoft SaaS Day (Western Europe) | Join Microsoft SaaS Day – a full day conference addressing both business and technical aspects of SaaS. Keep up with the existing trends and learn about the upcoming ones.
 May 12, 2022 | GitHub Intro & Overview | New to GitHub? Planned topics of this 101 webinar include roadmap & value prop including modernizing DevOps, developer collaboration, automation, integrations, secure development, and other cool stuff! [**Learn more and register - COMING SOON**].

@@ -41,6 +41,8 @@ May 3, 2022 | Microsoft SaaS Day (*Western Europe*) | Join Microsoft SaaS Day â€
 
 ### Additional Resources
 
+The events above are curated from the sources below:
+
 [ISV Success Program Events Page](https://microsoftisvsuccessprogram.eventbuilder.com/ISVSuccessProgram)
 
 [Marketplace Office Hours Webinars and Workshops](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners)

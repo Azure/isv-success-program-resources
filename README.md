@@ -4,7 +4,7 @@ Please [go here](https://azure.github.io/isv-success-program-resources) for the 
 
 If you are looking to do any of the following, this content is for you.
 
-[Build my solution on Azure](https://azure.github.io/isv-success-program-resources/azure)
+[Build my solution on Azure](https://azuresaasguide.com/)
 
 [Publish my application to the commercial marketplace](https://azure.github.io/isv-success-program-resources/marketplace)
 

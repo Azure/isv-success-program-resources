@@ -32,6 +32,8 @@ June 2, 2022 | Supercharge Your Marketplace Offer with the SaaS Accelerator (*Un
 June 8, 2022 | Identity and Access Management (*US*) | This **webinar** about Microsoft Azure Identity will cover the many options and features that can help an independent software vendor (ISV) with setting up identity management for their solution on Azure. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/61216)
 June 9, 2022 | Deep Dive into GitHub's Advanced Capabilities (*US/Europe*) | This **webinar** will provide you with a deeper understanding of Collaboration & DevOps Modernization, Developer-first cloud automation, Advanced Security capabilities, and GitHub's internal best practices. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/61034)
 June 15, 2022 | Protecting Your Application and Data (*US*) | Security breaches can result in the loss of customer data, intellectual property, and customer trust. Join this **webinar** to learn about the native security controls in Azure and how to get started securing your environment. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/61217)
+TBA | Describing the capabilities of Microsoft Power Platform | Overview of Microsoft power platform and its components, possibilities to extend, and points of integration. | Coming soon!
+TBA | Managing your customers in a multi-tenant environment | Join this session to learn more about designing your application for multitenancy. | Coming soon!
 
 ### Past Events and On-Demand Recordings
 

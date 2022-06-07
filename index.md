@@ -33,8 +33,8 @@ June 15, 2022 | Developing SaaS Solutions (*US*) | This hands-on **workshop** wi
 June 28, 2022 | ISV to Customer Private Offers Overview (*US*) | Join this **webinar** to learn about the new ISV to Customer Private offers functionality and how ISVs can leverage it for custom deal making needs with their customers. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/61437)
 TBA (June) | Automate Your Deployments Using Infrastructure as Code and Azure Bicep | Infrastructure as code ensures consistent and repeatable deployments to deploy the required services for your application. Join us to learn how you can use Infrastructure as code and Bicep to automate your deployments. | Coming soon!
 TBA (July) | Comparing Azure Database Services | Whether you plan to use relational or non-relational, open source or Microsoft, there are several PaaS database options to choose from in Azure. Join this session to learn more about the various database options that can be used with your application. | Coming soon!
-TBA (July) | Describing the capabilities of Microsoft Power Platform | Overview of Microsoft power platform and its components, possibilities to extend, and points of integration. | Coming soon!
-TBA (August) | Managing your customers in a multi-tenant environment | Join this session to learn more about designing your application for multitenancy. | Coming soon!
+TBA (July) | Describing the Capabilities of Microsoft Power Platform | Overview of Microsoft power platform and its components, possibilities to extend, and points of integration. | Coming soon!
+TBA (August) | Managing Your Customers in a Multi-Tenant Environment | Join this session to learn more about designing your application for multitenancy. | Coming soon!
 
 ### Past Events and On-Demand Recordings
 

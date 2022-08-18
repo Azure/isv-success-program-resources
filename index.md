@@ -26,7 +26,6 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------
-August 17, 2022 | Choosing the Right Platform | Join this **webinar** to learn more about the various types of data storage platforms available and how to choose the right data platform and data architecture for your Azure solution. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/64044)
 August 18, 2022 | Supercharge your marketplace Offer with the SaaS Accelerator | Join this **webinar** to learn how the SaaS accelerator project can help partners go to market quicker by accelerating creating the technical implementation to publish their transactable SaaS offers on Azure Marketplace. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/62234?source=ISVSuccessProgram)
 September 7, 2022 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | Link coming soon!
 September 21, 2022 | Microsoft Teams App in a Day | Join this **webinar** to learn the steps needed to take an existing SaaS app from "zero Microsoft" to a complete Microsoft Teams app running in the Teams. | Link coming soon!
@@ -61,6 +60,7 @@ August 3, 2022 | Mastering the SaaS Accelerator | This hands-on **workshop** int
 August 9, 2022 | Creating Plans and Pricing for your SaaS Offer | Looking to publish an offer or app onto the Microsoft Commercial marketplace but don’t know where to get started? Join this **webinar** to learn more from our team of experts. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/62233?source=ISVSuccessProgram)
 August 10, 2022 | Build your Custom SaaS solution for the Marketplace | Looking to publish an offer or app onto the Microsoft Commercial marketplace but don’t know where to get started? Join this **webinar** to learn more from our team of experts. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/62232?source=ISVSuccessProgram)
 August 11, 2022 | ISV to Customer Private Offers | Join this **webinar** to learn about the new ISV to Customer Private offers functionality and how ISVs can leverage it for custom deal making needs with their customers. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/62706?source=ISVSuccessProgram)
+August 17, 2022 | Choosing the Right Platform | Join this **webinar** to learn more about the various types of data storage platforms available and how to choose the right data platform and data architecture for your Azure solution. | [Register to watch on-demand](https://microsoftisvsuccessprogram.eventbuilder.com/event/64044)
 
 ### Additional Resources
 

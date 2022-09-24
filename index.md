@@ -37,6 +37,9 @@ October 17, 2022 | Getting Started in Marketplace | Join this **webinar** to lea
 October 18, 2022 | Creating Plans and Pricing for your SaaS Offer | Join this **webinar** to learn more about creating and pricing your transactable SaaS offer!. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/65818?source=ISVSuccessProgram)
 October 25, 2022 | Tap into the Microsoft Partner Ecosystem | Are you a Software Publisher looking to tap into the 90,000 strong Microsoft Cloud Solution Provider ecosystem? With Margin Sharing Private Offers and a rapidly expanding number of participating Indirect and Direct Cloud Solution Providers there is no better time than now to leverage Microsoft commercial marketplace to build or expand your channel. Join this **webinar** to learn more. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/65802?source=ISVSuccessProgram)
 October 25, 2022 | Mastering the SaaS Accelerator | In this technical **workshop** learn how to implement the components of a fully functional SaaS offer. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/65822?source=ISVSuccessProgram)
+October 26, 2022 | A Comparison of GitHub and Azure Devops | In this **webinar** we will discuss GitHub and Azure DevOps and how they coexist in the DevOps world with Azure. Covering the differences and similarities between the two and items to consider when deciding which service to use. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/66114)
+November 9, 2022 | Sentinel Overview | Description coming soon. | [Registration link coming soon!]
+
 
 
 ### Past Events and On-Demand Recordings

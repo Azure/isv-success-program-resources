@@ -39,7 +39,7 @@ October 25, 2022 | Tap into the Microsoft Partner Ecosystem | Are you a Software
 October 25, 2022 | Mastering the SaaS Accelerator | In this technical **workshop** learn how to implement the components of a fully functional SaaS offer. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/65822?source=ISVSuccessProgram)
 October 26, 2022 | A Comparison of GitHub and Azure Devops | In this **webinar** we will discuss GitHub and Azure DevOps and how they coexist in the DevOps world with Azure. Covering the differences and similarities between the two and items to consider when deciding which service to use. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/66114)
 November 9, 2022 | Sentinel Overview | *Description coming soon.* | [*Registration link coming soon!*]
-Novermber 16, 2022 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [*Registration link coming soon!*]
+November 16, 2022 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [*Registration link coming soon!*]
 December 7, 2022 | Integrating Power BI with your Application | *Description coming soon.* | [*Registration link coming soon!*]
 
 

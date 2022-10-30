@@ -26,7 +26,6 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------
-October 27, 2022 | Developing Virtual Machine offers in the Azure Marketplace | In this **webinar** we will review the required technical configurations to make Virtual Machine apps and how to publish virtual machines offers to the Azure marketplace. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/65825?source=ISVSuccessProgram)
 November 8, 2022 | Mastering Container Offers Workshop | This **workshop** introduces the new Azure Container Offer used to deploy containerized solutions as Kubernetes Apps from the Azure Marketplace. The workshop assumes no knowledge of the commercial marketplace, but there are some prerequisites to the workshop. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/66707?source=ISVSuccessProgram)
 November 16, 2022 | Sentinel Overview | *Description coming soon.* | [*Registration link coming soon!*]
 December 7, 2022 | Integrating Power BI with your Application | *Description coming soon.* | [*Registration link coming soon!*]
@@ -90,6 +89,8 @@ October 24, 2022 | Getting Started in Marketplace | Join this **webinar** to lea
 October 25, 2022 | Tap into the Microsoft Partner Ecosystem | Are you a Software Publisher looking to tap into the 90,000 strong Microsoft Cloud Solution Provider ecosystem? With Margin Sharing Private Offers and a rapidly expanding number of participating Indirect and Direct Cloud Solution Providers there is no better time than now to leverage Microsoft commercial marketplace to build or expand your channel. Join this **webinar** to learn more. | [Register to watch on-deman](https://microsoftcloudpartner.eventbuilder.com/event/65802?source=ISVSuccessProgram)
 October 25, 2022 | Mastering the SaaS Accelerator | In this technical **workshop** learn how to implement the components of a fully functional SaaS offer. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/65822?source=ISVSuccessProgram)
 October 26, 2022 | Tackle vs DIY | Join this **webinar** with the Tackle team to hear the real costs of a DIY approach on your time, resources, and reputation. Learn how Tackle can get you listed on Microsoft commercial marketplace, scale your Marketplace operations over time, and accelerate revenue generation. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/65823?source=ISVSuccessProgram)
+October 27, 2022 | Developing Virtual Machine offers in the Azure Marketplace | In this **webinar** we will review the required technical configurations to make Virtual Machine apps and how to publish virtual machines offers to the Azure marketplace. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/65825?source=ISVSuccessProgram)
+
 
 ### Additional Resources
 

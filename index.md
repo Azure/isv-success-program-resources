@@ -22,7 +22,7 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 ## Attend an event
 ### Upcoming Events
-
+In addition to below
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------

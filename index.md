@@ -22,7 +22,7 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 ## Attend an event
 ### Upcoming Events
-In addition to below
+In addition to below, visit the [Marketplace Office Hours page](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) to see all upcoming webinars and workshops.
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------

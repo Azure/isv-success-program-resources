@@ -26,6 +26,9 @@ Whether you are looking to move your application to the cloud, help your cloud n
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------
+In addition to the two webinards below, please visit the Marketplace Office Hours directory for all other upcoming webinar and workshops: 
+https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners
+
 December 19, 2022 | Getting Started in Marketplace | Join this **webinar** to learn how to reach new customers as they increasingly try, find, and buy solutions in online marketplaces. You’ll hear about programs, resources, and benefits designed to help your business grow in the commercial marketplace. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/68087?source=ISVSuccess)
 December 21, 2022 | Tackle vs DIY | Join this **webinar** with the Tackle team to hear the real costs of a DIY approach on your time, resources, and reputation. Learn how Tackle can get you listed on Microsoft commercial marketplace, scale your Marketplace operations over time, and accelerate revenue generation. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/68092?source=ISVSuccessProgram)
 December 21, 2022 | Activating your Marketplace Selling Journey | Join this **webinar** to learn about resources, tips, programs and incentives to help you increase sales of your transactable marketplace offers. | [Learn more and register](https://microsoftcloudpartner.eventbuilder.com/event/68020?source=ISVSuccessProgram)

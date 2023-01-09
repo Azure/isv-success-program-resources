@@ -29,7 +29,7 @@ In addition to below, visit the [**Marketplace Office Hours page**](https://micr
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------
 January 11, 2023 | A Comparison of GitHub and Azure Devops | In this **webinar** we will discuss GitHub and Azure DevOps and how they coexist in the DevOps world with Azure. Covering the differences and similarities between the two and items to consider when deciding which service to use. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/66114)
-January 25, 2023 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [*Registration link coming soon!*]
+January 25, 2023 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/69153)
 
 
 

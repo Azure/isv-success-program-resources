@@ -23,7 +23,8 @@ Whether you are looking to move your application to the cloud, help your cloud n
 ## Attend an event
 ### Upcoming Events
 
-In addition to below, visit the [**Marketplace Office Hours page**](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners?source=ISVSuccessProgram) to see all upcoming webinars and workshops.
+Great news! The [**ISV Hub Resources**](https://www.microsoft.com/isv/resources-hub) page launched on January 23, 2023. Visit that page to learn about upcoming events and other resources. 
+
 
 
 

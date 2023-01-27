@@ -15,7 +15,6 @@ Whether you are looking to move your application to the cloud, help your cloud n
 Great news! The [**ISV Hub Resources**](https://www.microsoft.com/isv/resources-hub) page launched on January 23, 2023. Visit that page to learn about upcoming events and other resources. The content on this page will continue to be available until fully migrated to the new location.
 
 
-
 ## What are you trying to accomplish?
 
 [Build my solution on Azure](./azure)
@@ -27,9 +26,7 @@ Great news! The [**ISV Hub Resources**](https://www.microsoft.com/isv/resources-
 [Visit the ISV Hub](https://www.microsoft.com/isv)
 
 
-
-
-### Past Events and On-Demand Recordings
+## Past Events and On-Demand Recordings
 
 Date  | Event | Description | Action
 ------------ | ------------- | ------------- | -------------

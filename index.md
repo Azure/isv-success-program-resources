@@ -26,12 +26,6 @@ Whether you are looking to move your application to the cloud, help your cloud n
 In addition to below, visit the [**Marketplace Office Hours page**](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners?source=ISVSuccessProgram) to see all upcoming webinars and workshops.
 
 
-Date  | Event | Description | Action
------------- | ------------- | ------------- | -------------
-January 11, 2023 | A Comparison of GitHub and Azure Devops | In this **webinar** we will discuss GitHub and Azure DevOps and how they coexist in the DevOps world with Azure. Covering the differences and similarities between the two and items to consider when deciding which service to use. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/66114)
-January 25, 2023 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [Learn more and register](https://microsoftisvsuccessprogram.eventbuilder.com/event/69153)
-
-
 
 ### Past Events and On-Demand Recordings
 
@@ -116,6 +110,9 @@ December 7, 2022 | Activating your Marketplace Selling Journey | Join this **web
 December 12, 2022 | Getting Started in Marketplace | Join this **webinar** to learn how to reach new customers as they increasingly try, find, and buy solutions in online marketplaces. You’ll hear about programs, resources, and benefits designed to help your business grow in the commercial marketplace. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/68076?source=ISVSuccessProgram)
 December 14, 2022 | Tackle vs DIY | Join this **webinar** with the Tackle team to hear the real costs of a DIY approach on your time, resources, and reputation. Learn how Tackle can get you listed on Microsoft commercial marketplace, scale your Marketplace operations over time, and accelerate revenue generation. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/68079?source=ISVSuccessProgram)
 December 15, 2022 | Developing with the SaaS Accelerator | Join this **webinar** to learn how SaaS accelerator project can help partners go to market quicker by accelerating creating the technical implementation to publish their transactable SaaS offers on Azure Marketplace. | [Register to watch on-demand](https://microsoftcloudpartner.eventbuilder.com/event/68085?source=ISVSuccessProgram)
+January 11, 2023 | A Comparison of GitHub and Azure Devops | In this **webinar** we will discuss GitHub and Azure DevOps and how they coexist in the DevOps world with Azure. Covering the differences and similarities between the two and items to consider when deciding which service to use. | [Register to watch on-demand](https://microsoftisvsuccessprogram.eventbuilder.com/event/66114)
+January 25, 2023 | Power Platform App in a Day | Join this **webinar** to get hands-on experience with the Microsoft Power Platform technologies – Power Apps, Power Automate, and Microsoft Dataverse. | [Register to watch on-demand](https://microsoftisvsuccessprogram.eventbuilder.com/event/69153)
+
 
 
 ### Additional Resources

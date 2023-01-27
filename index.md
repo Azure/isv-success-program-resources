@@ -10,6 +10,12 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 
 Whether you are looking to move your application to the cloud, help your cloud native application perform at its best, or even explore selling with Microsoft, we are here to help. 
 
+## Programming Note and Update
+
+Great news! The [**ISV Hub Resources**](https://www.microsoft.com/isv/resources-hub) page launched on January 23, 2023. Visit that page to learn about upcoming events and other resources. The content on this page will continue to be available until fully migrated to the new location.
+
+
+
 ## What are you trying to accomplish?
 
 [Build my solution on Azure](./azure)
@@ -19,11 +25,6 @@ Whether you are looking to move your application to the cloud, help your cloud n
 [Build or integrate my solution with Microsoft Teams](./teams)
 
 [Visit the ISV Hub](https://www.microsoft.com/isv)
-
-## Attend an event
-### Upcoming Events
-
-Great news! The [**ISV Hub Resources**](https://www.microsoft.com/isv/resources-hub) page launched on January 23, 2023. Visit that page to learn about upcoming events and other resources. 
 
 
 

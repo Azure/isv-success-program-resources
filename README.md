@@ -1,5 +1,9 @@
 # ISV Success Program Resource Center
 
+***IMPORTANT: This project is in an archived state and is no londer being maintained.  Please refer to the current
+[Software Development Company Hub](https://www.microsoft.com/software-development-companies/resources)
+for current information.***
+
 Please [go here](https://azure.github.io/isv-success-program-resources) for the website version of this repository.
 
 If you are looking to do any of the following, this content is for you.
